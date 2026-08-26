@@ -1,5 +1,5 @@
 # X-ray Weak AGN Code
-Modular pipeline created to run NICER data through HEASoft.
+Modular pipeline created to analyse X-ray weak AGN from XMM-Newton observations.
 
 HEASoft + SAS tools + BEHR must be installed and on your PATH for the program to run.
 
@@ -42,11 +42,17 @@ Run program as `./run_pipeline.sh` in BASH.
 - **post_analysis**: Calculates hardness ratio, $F_{\mathrm{var}}$ and spectral fitting.
 ---
 
-## Catalogue Data
-Note: Catalogue currently contains minimal enteries, therefore the user may need to input their own data into this for use. 
-- **orbital_period**: Orbital period of object (in days).
-- **orbital_pdot**: First time derivative of orbital period (in s/s). Use `0.0` if not wanted.
-- **reference_epoch**: Phase-zero epoch (**T0**) in MJD (e.g. Tasc / inferior conjunction from literature).
+## Target Catalogue Data
+Note: Catalogue currently contains minimal entries, therefore the user may need to input their own data into this for use. 
+- **z**: Redshift of target.
+- **NH_Gal**: Milky Way hydrogen column density along the line of sight.
+- **reference**: Reference(s) for the values described above.
+
+## Field Catalogue Data
+Note: Catalogue currently contains minimal entries, therefore the user may need to input their own data into this for use. 
+- **H0**: Hubble constant.
+- **omega_m**: Matter composition of universe.
+- **omega_lambda**: Radiation composition of universe.
 - **reference**: Reference(s) for the values described above.
 
 ---
