@@ -35,11 +35,11 @@ Run program as `./run_pipeline.sh` in BASH.
 - **pre_processing**: Runs Instrume processing, SAS and gti filtering.
 - **spectral_processing**: Runs spectral processing.
 - **light_curve_processing**: Runs light curve processing.
-- **population_analysis**: Runs crossmatch and calculates  \(\Delta\alpha_{\text{ox}}\).
+- **population_analysis**: Runs crossmatch and calculates $\Delta\alpha_{\text{ox}}$.
 - **LX_LUV_plot**: Plots UV against X-ray.
 - **civ_and_hubble_plots**: Plots civ and hubble plots.
 - **spec_lc_plotting**: Plots spectrographic plot and light curve.
-- **post_analysis**: Calculates hardness ratio, \(F_{\text{var}}\) and spectral fitting.
+- **post_analysis**: Calculates hardness ratio, $F_{\mathrm{var}}$ and spectral fitting.
 ---
 
 ## Catalogue Data
