@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -e
+
+cd "$(dirname "$0")"
+
+export LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH"
+
+python3 -m program.main config.json
+
