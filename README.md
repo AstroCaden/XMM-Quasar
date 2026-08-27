@@ -21,8 +21,10 @@ Run program as `./run_pipeline.sh` in BASH.
 - **CCF_path**: Path to CCF folder.
 
 ### General
-- **auto_resolve**: `true` to backtrack and run missing prerequisites automatically.
 - **reprocess**: `true` to regenerate files even if they already exist.
+- **auto_resolve**: `true` to backtrack and run missing prerequisites automatically.
+- **min_counts**: Minimum counts to prevent running whole pipeline for target too faint to obtain a photon index value.
+- **stop_at_low_counts**:  `true` to stop pipeline if number of counts of a target is lower than the `min_counts` value.
 
 ### Population crossmatch
 - **crossmatch_radius_arcsec**: Matching radius used when crossmatching 4XMM against SDSS DR16.
