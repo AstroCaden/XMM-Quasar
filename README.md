@@ -20,6 +20,10 @@ Run program as `./run_pipeline.sh` in BASH.
 - **concurrent_downloads**: Number of datasets to download concurrently. Recommended 5-10.
 - **CCF_path**: Path to CCF folder.
 
+### General
+- **auto_resolve**: `true` to backtrack and run missing prerequisites automatically.
+- **reprocess**: `true` to regenerate files even if they already exist.
+
 ### Population crossmatch
 - **crossmatch_radius_arcsec**: Matching radius used when crossmatching 4XMM against SDSS DR16.
 - **z_min**: Lower redshift bound for the population sample.
@@ -86,9 +90,6 @@ Run program as `./run_pipeline.sh` in BASH.
 - **specfit_gamma_max**: Upper bound allowed on the fitted photon index.
 - **specfit_const_min**: Lower bound on the cross-normalisation constant between instruments.
 - **specfit_const_max**: Upper bound on the cross-normalisation constant between instruments.
-
-### General
-- **auto_resolve**: `true` to backtrack and run missing prerequisites automatically.
 
 ### run_steps (set each to `true` or `false`)
 - **download_XMM**: Downloads datasets based on target selection rules from XMM observations.
