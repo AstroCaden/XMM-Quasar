@@ -101,6 +101,7 @@ Run program as `./run_pipeline.sh` in BASH.
 - **civ_and_hubble_plots**: Plots CIV and Hubble diagram plots.
 - **spec_lc_plotting**: Plots spectral and light curve plots.
 - **post_analysis**: Calculates hardness ratio, $F_{\mathrm{var}}$ and spectral fitting.
+- **xray_weakness_comparison**: Runs the x-ray weakness comparison.
 
 ---
 
