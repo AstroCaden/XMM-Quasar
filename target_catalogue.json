@@ -1,22 +1,121 @@
 {
-    "SDSS_J092156.38+285237.7": {
-        "z": 1.730,
-        "NH_Gal": 1.65e20,
-        "reference": "a"
-    },
-    "SDSS_J104350.35+140703.0": {
-        "z": 2.321,
-        "NH_Gal": 2.72e20,
-        "reference": "a"
-    },
     "PG 1211+143": {
         "z": 0.0809,
         "NH_Gal": 2.74e20,
-        "reference": "a"
+        "type": "comparison",
+        "reference": "",
+        "notes": "calibration"
     },
-    "SDSS_J0303-0019": {
-        "z": 3.235,
-        "NH_Gal": 2.3e22,
-        "reference": "a"
-    }
+    
+    "3C 273": {
+        "z": 0.158339,
+        "NH_Gal": 1.68e20,
+        "type": "comparison",
+        "reference": "fold",
+        "notes": "calibration"
+   },
+   
+   
+
+
+
+   "SDSS_J104111.45+573848.3": {
+       "z": 2.082,
+       "NH_Gal": 5.82e19,
+       "type": "science",
+       "reference": "",
+       "notes": "bad weak"
+   },
+   "SDSS_J093857.01+412821.2": {
+       "z": 1.958,
+       "NH_Gal": 1.29e20,
+       "type": "science",
+       "reference": "",
+       "notes": "eeehhh weak"
+   },
+   "SDSS_J080342.03+302254.7": {
+       "z": 2.030851,
+       "NH_Gal": 3.63e20,
+       "type": "science",
+       "reference": "",
+       "notes": "bueno weak"
+   },
+   
+   "SDSS_J125005.72+263107.5": {
+       "z": 2.048,
+       "NH_Gal": 9.40e+19,
+       "type": "science",
+       "reference": "",
+       "notes": "beautiful strong"
+   },
+   
+   
+   "SDSS_J090404.15+151254.5": {
+       "z": 1.826,
+       "NH_Gal": 3.53e+20,
+       "type": "science",
+       "reference": "",
+       "notes": "beautiful strong"
+   },
+   
+   "SDSS_J085141.76+161221.9": {
+       "z": 1.927,
+       "NH_Gal": 2.21e+20,
+       "type": "science",
+       "reference": "",
+       "notes": "uncertain strong"
+   },
+   
+   
+   "SDSS_J142231.28+441455.6": {
+       "z": 1.81734,
+       "NH_Gal": 8.00e19,
+       "type": "science",
+       "reference": "",
+       "notes": "bad normal"
+   },
+   
+   
+   
+   "SDSS_J094446.36+040659.7": {
+       "z": 1.821057,
+       "NH_Gal": 3.70e+20,
+       "type": "science",
+       "reference": "",
+       "notes": "normal"
+   },
+   
+   
+   
+   "SDSS_J112104.93+432141.6": {
+       "z": 2.026,
+       "NH_Gal": 2.53e+20,
+       "type": "science",
+       "reference": "",
+       "notes": "okay normal"
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   "SDSS_J082619.70+314847.9": {
+       "z": 3.098,
+       "NH_Gal": 4.13e20,
+       "type": "science",
+       "reference": "Nardini et al. 2019",
+       "notes": "test"
+   }   
+   
+   
+   
+   
+   
+   
 }
