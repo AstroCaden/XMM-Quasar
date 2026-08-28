@@ -62,8 +62,6 @@
     "specfit_gamma_guess": 1.8,
     "specfit_gamma_min": 0.1,
     "specfit_gamma_max": 5.0,
-    "specfit_const_min": 0.1,
-    "specfit_const_max": 10.0,
 
     "quality_sum_flag_max": 3,
     "quality_psfflux_min": 0.1,
