@@ -96,8 +96,8 @@ if __name__ == "__main__":
         stop_at_low_counts=config["stop_at_low_counts"],
         exclude_radius=config["exclude_radius"],
         xray_strong_threshold=config["xray_strong_threshold"],
-        xmm_band3_width=config["xmm_band3_width"]
-        xmm_band4_width=config["xmm_band4_width"]
+        xmm_band3_width=config["xmm_band3_width"],
+        xmm_band4_width=config["xmm_band4_width"],
     )
 
     
