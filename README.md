@@ -1,4 +1,5 @@
 # X-ray Weak AGN Code
+### NOTE: Project still under development, README may not be up-to-date.
 Modular pipeline created to analyse X-ray weak AGN from XMM-Newton observations.
 HEASoft and SAS must be installed and initialised (sourced) before running. BEHR must be compiled and its binary placed in the project root directory (not on PATH).
 Initiate with `chmod +x run_pipeline.sh`.
