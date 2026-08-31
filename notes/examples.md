@@ -1,6 +1,6 @@
-Example results using all targets in target_catalogue.json and the parameters set out in config.json:
-
 # Full Target Results
+
+## Example results using all targets in target_catalogue.json and the parameters set out in config.json:
 
 Γ column shows the best-available fit, preferring combined > PN > MOS (whichever is clean, i.e. not boundary-pinned); "fit" notes which one is shown. HR is the BEHR median with its 68% interval. Fvar: "n.d." = not detected (Fvar² ≤ 0, recorded as upper limit); "—" = not computed.
 
@@ -76,9 +76,9 @@ Example results using all targets in target_catalogue.json and the parameters se
 | J160126.31+511038.2 | 0.40 | — | — | — | — |
 | J212951.16+004808.8 | 0.36 | 1.87 (1.81, 1.92) | combined | -0.57 (-0.61, -0.53) | n.d. |
 
-Example results of 4XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
-
 # Population Summary
+
+## Example results of 4XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
 
 4XMM-DR14 × SDSS DR16Q crossmatch, z = 1.8–2.2, after quality cuts (SC_SUM_FLAG, PSFFLUX, colour, radio, BAL).
 
