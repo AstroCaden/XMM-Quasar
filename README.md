@@ -122,6 +122,7 @@ Note: Catalogue currently contains minimal entries, therefore the user may need 
 - **z**: Redshift of target.
 - **NH_Gal**: Milky Way hydrogen column density along the line of sight.
 - **reference**: Reference(s) for the values described above.
+- **notes**: Section for any general notes on target.
 
 ## Field Catalogue Data
 Note: Catalogue currently contains minimal entries, therefore the user may need to input their own data into this for use.
