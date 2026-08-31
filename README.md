@@ -1,5 +1,5 @@
 # X-ray Strength AGN Code
-### NOTE: Project still under development, README may not be up-to-date.
+### NOTE: Project still under development, README may not be up-to-date. Code subject to change and may contain bugs.
 
 Modular pipeline created to analyse X-ray weak, normal and strong AGN from XMM-Newton observations.
 HEASoft and SAS must be installed and initialised (sourced) before running. BEHR must be compiled and its binary placed in the project root directory (not on PATH).
