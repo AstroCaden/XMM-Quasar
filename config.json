@@ -56,8 +56,8 @@
 
     "fvar_min_bins": 3,
 
-    "specfit_energy_min": 5.0,
-    "specfit_energy_max": 10.0,
+    "specfit_energy_min": 0.5,
+    "specfit_energy_max": 8.0,
     "specfit_mincounts": 1,
     "specfit_gamma_guess": 1.8,
     "specfit_gamma_min": 0.1,
