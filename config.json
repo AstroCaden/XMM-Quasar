@@ -1,5 +1,5 @@
 {
-    "target_name": "PHL 1811",
+    "target_name": "your_target",
     "working_dir": "working",
     "field": "standard",
 
@@ -7,7 +7,7 @@
     "ObsID_specifically_chosen": [],
     "number_of_datasets": 5,
     "concurrent_downloads": 5,
-    "CCF_path": "/home/cananden/Documents/python/XMM-Quasar-main/XMM_CCF",
+    "CCF_path": "/home/your/path/to/XMM_CCF",
     
     "reprocess": "careful",
     "auto_resolve": true,
