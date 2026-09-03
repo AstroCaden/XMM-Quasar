@@ -2,12 +2,6 @@
 
 ### Example results using all targets in target_catalogue.json and the parameters set out in config.json:
 
-Γ column shows the best-available fit, preferring combined > PN > MOS (whichever is clean, i.e. not boundary-pinned); "fit" notes which one is shown. HR is the BEHR median with its 68% interval. Fvar: "n.d." = not detected (Fvar² ≤ 0, recorded as upper limit); "—" = not computed.
-
-
-Found the discrepancy — 6 of your 31 Decent/Good targets aren't in the table you pasted at all (it looks like an older/partial export): `SDSS_J020543.75-063807.0` (Decent strong), `SDSS_J080040.11+110314.1` (Decent weak), `SDSS_J093217.17+285844.8` (Good weak), `SDSS_J122708.29+012638.4` (Decent weak), `SDSS_J131109.57+391128.5` (Good weak), `SDSS_J132040.61+341646.4` (Decent weak). I've left them out below since I have no Γ_own/HR/Fvar for them from your table — let me know if you want me to pull those separately.
-
-For the rest: `Γ_lit` uses `SPEC_GAMMA_PL` (per-obsid power-law fit) when available, falling back to `STACK_GAMMA` (multi-epoch stacked fit) otherwise — I checked both against the 5XMM data and confirmed `SPEC_GAMMA_ERR_LO/UP_PL` are absolute bounds, while `STACK_GAMMA_ERR_LO/UP` are ± deltas (verified `STACK_GAMMA_ERR == mean(LO,UP)` across several rows), so I converted the latter to absolute bounds before use. σ = |Γ_own − Γ_lit| / √(σ_own² + σ_lit²), with each σ taken as half the quoted range — a standard quadrature calc, not a reproduction of your pipeline's exact formula since I still don't have that code, so treat it as a good approximation rather than an exact match.
 
 ## Test
 | Target | Δαox | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
