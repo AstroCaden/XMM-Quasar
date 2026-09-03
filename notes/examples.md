@@ -62,23 +62,23 @@
 | | N | Fraction |
 |---|---|---|
 | Total | 1539 | — |
-| Weak (Δαox < -0.3) | 269 | 17.5% |
-| Normal (-0.3 ≤ Δαox ≤ 0.3) | 1005 | 65.3% |
-| Strong (Δαox > +0.3) | 265 | 17.2% |
+| Weak (Δαox < -0.3) | 46 | 2.8% |
+| Normal (-0.3 ≤ Δαox ≤ 0.3) | 1600 | 96.5% |
+| Strong (Δαox > +0.3) | 12 | 0.7% |
 
 ## Δαox distribution
 
 | Statistic | Value |
 |---|---|
-| Standard deviation | 0.333 dex |
+| Standard deviation | 0.137 dex |
 | Mean | ≈ 0.00 (consistent with zero) |
 
 ## αox
 
 | Statistic | Value |
 |---|---|
-| Median | -1.641 |
-| 16th percentile | -1.802 |
+| Median | -1.650 |
+| 16th percentile | -1.815 |
 | 84th percentile | -1.499 |
 
 ## Luminosities (population median)
