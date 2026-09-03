@@ -1,0 +1,2 @@
+field_type,n_total,n_weak,n_normal,n_strong,frac_weak,frac_normal,frac_strong,delta_aox_std,delta_aox_mean,aox_median,aox_16th,aox_84th,L2kev_median,L2500_median,xray_weak_threshold,xray_strong_threshold,z_min,z_max
+standard,1658,46,1600,12,0.027744270205066344,0.9650180940892642,0.007237635705669481,0.1369433277780416,-3.938345427824402e-15,-1.6502163657256528,-1.8154595502683224,-1.499096678325187,2.3030933509755865e+26,4.16421578586625e+30,-0.3,0.3,1.8,2.2
