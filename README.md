@@ -30,7 +30,7 @@ Run program as `./run_pipeline.sh` in BASH.
 - **stop_at_low_counts**:  `true` to stop pipeline if number of counts of a target is lower than the `min_counts` value.
 
 ### Population crossmatch
-- **crossmatch_radius_arcsec**: Matching radius used when crossmatching 4XMM against SDSS DR16.
+- **crossmatch_radius_arcsec**: Matching radius used when crossmatching 5XMM against SDSS DR16.
 - **z_min**: Lower redshift bound for the population sample.
 - **z_max**: Upper redshift bound for the population sample.
 
@@ -65,12 +65,12 @@ Run program as `./run_pipeline.sh` in BASH.
 - **gamma_distribution_bins**: Number of bins used for the photon index distribution plot.
 
 ### Population Δαox calculation
-- **xmm_band3_centre**: Assumed centre energy (keV) of 4XMM band 3, used when interpolating to the target energy.
-- **xmm_band3_width**: Assumed width (keV) of 4XMM band 3, used in the same interpolation.
-- **xmm_band4_centre**: Assumed centre energy (keV) of 4XMM band 4, used when interpolating to the target energy.
-- **xmm_band4_width**: Assumed width (keV) of 4XMM band 4, used in the same interpolation.
+- **xmm_band3_centre**: Assumed centre energy (keV) of 5XMM band 3, used when interpolating to the target energy.
+- **xmm_band3_width**: Assumed width (keV) of 5XMM band 3, used in the same interpolation.
+- **xmm_band4_centre**: Assumed centre energy (keV) of 5XMM band 4, used when interpolating to the target energy.
+- **xmm_band4_width**: Assumed width (keV) of 5XMM band 4, used in the same interpolation.
 - **xmm_target_energy**: Rest-frame energy (keV) Δαox is computed at (standard is 2 keV).
-- **quality_sum_flag_max**: Maximum acceptable 4XMM `SC_SUM_FLAG` value; sources at or above this are excluded.
+- **quality_sum_flag_max**: Maximum acceptable 5XMM `SC_SUM_FLAG` value; sources at or above this are excluded.
 - **quality_psfflux_min**: Minimum SDSS i-band PSFFLUX (nanomaggies) required to keep a source.
 - **quality_colour_cut**: Maximum allowed deviation of (g−i) colour from the sample median, used to exclude reddened/contaminated sources.
 - **radio_flux_threshold**: FIRST radio flux (mJy) above which a matched source is excluded as radio-loud.
@@ -103,7 +103,7 @@ Run program as `./run_pipeline.sh` in BASH.
 
 ### run_steps (set each to `true` or `false`)
 - **download_XMM**: Downloads datasets based on target selection rules from XMM observations.
-- **download_catalogue**: Downloads the 4XMM_slim_DR14 and SDSS_DR16 catalogues.
+- **download_catalogue**: Downloads the 5XMM_slim_DR15 and SDSS_DR16 catalogues.
 - **pre_processing**: Runs Instrume processing, SAS and GTI filtering.
 - **spectral_processing**: Runs spectral processing.
 - **light_curve_processing**: Runs light curve processing.
@@ -113,7 +113,9 @@ Run program as `./run_pipeline.sh` in BASH.
 - **spec_lc_plotting**: Plots spectral and light curve plots.
 - **post_analysis**: Calculates hardness ratio, $F_{\mathrm{var}}$ and spectral fitting.
 - **xray_weakness_comparison**: Runs the x-ray weakness comparison.
-- **post_analysis_plots**: Generates all photon-index, hardness-ratio, and counts-based diagnostic plots from the x-ray weakness comparison output.
+- **post_analysis_plots**: Generates all photon index, hardness- ratio, and counts-based diagnostic plots from the x-ray weakness comparison output.
+- **count_plots**: Generates counts vs photon index error, $F_{\mathrm{var}}$ and $\Delta\alpha_{\text{ox}}$ plots.
+- **literature_checks** Compares targets in catalogue against 5XMM catalogue and performs consistency check against published values within the 5XMM catalogue. 
 
 ---
 
@@ -137,7 +139,7 @@ Note: Catalogue currently contains minimal entries, therefore the user may need 
 A full, detailed log of methodological approximations, tested-and-ruled-out hypotheses, and open issues is kept in `known_limitations.md` and is intended to be read alongside any results from this pipeline. Headline points:
 
 - **Population Δαox** uses a fixed assumed photon index (`photon_index`) and an i-band UV proxy that drifts slightly across the sample's redshift range; several standard literature quality cuts (individual Γ filtering, UV reddening slopes, Eddington bias correction) are not implemented, giving a larger Δαox scatter (~0.33 dex) than fully-cut literature samples (~0.15 dex).
-- **Background region contamination**: the fixed source-circle/background-annulus geometry can pick up field-specific contaminating soft X-ray sources that a fixed-radius annulus doesn't avoid on its own. Confirmed directly via a 4XMM crossmatch of the background region for one target. Fixed by excluding a small region around any catalogued source found inside the annulus before extraction (`_background_region`, controlled by `exclude_radius`).
+- **Background region contamination**: the fixed source-circle/background-annulus geometry can pick up field-specific contaminating soft X-ray sources that a fixed-radius annulus doesn't avoid on its own. Confirmed directly via a 5XMM crossmatch of the background region for one target. Fixed by excluding a small region around any catalogued source found inside the annulus before extraction (`_background_region`, controlled by `exclude_radius`).
 - **Spectral fitting (Γ) had several real bugs, now fixed**: background was not being subtracted in the XSPEC fit at all (missing `s.background`); the reported Γ was sometimes read from a stale model state left over after a failed `Fit.error()` search rather than the true best fit; multi-instrument (combined) fits didn't propagate NH, energy band, redshift, and normalisation to the MOS model copies, leaving them at XSPEC's library defaults; spectra with negative net counts after background subtraction (an invalid detection) could still produce a boundary-pinned, physically meaningless Γ. All four are fixed; a validity gate now skips any fit with non-positive net counts rather than reporting one. Post-fix, individually-fitted Γ values now match their own confidence intervals and agree with published values (Nardini et al. 2019) for both cross-checked sources.
 - **`PhoIndex` hard-limit boundary bug (found post-deployment, now fixed)**: the hard limits passed to XSPEC's `PhoIndex.values` were set half a unit beyond the intended `specfit_gamma_min`/`specfit_gamma_max` (i.e. `gamma_min − 0.5` and `gamma_max + 0.5`) rather than at those values directly. Poorly-constrained fits could converge to physically meaningless photon indices (Γ < 0, Γ > 5.5) outside the intended range, while still returning a zero-width confidence interval that superficially resembled a genuinely hard-pinned (and therefore filterable) fit. Hard limits now collapse exactly to `specfit_gamma_min`/`specfit_gamma_max`.
 - **Best-fit epoch selection**: for targets with multiple archival ObsIDs, the "best" fit per instrument (PN/combined/MOS) was originally chosen by maximum degrees of freedom — i.e. the largest/most-exposed spectrum — which in practice sometimes selected the statistically worst-fitting epoch over a smaller but genuinely better-constrained one. Selection is now based on minimum reduced-cstat (`cstat/dof`), preferring candidates above `best_fit_min_dof` first and falling back to the best available fit (logged when triggered) if none clear that floor.
