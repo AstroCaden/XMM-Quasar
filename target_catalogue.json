@@ -4,396 +4,643 @@
         "NH_Gal": 2.74e+20,
         "type": "science",
         "reference": "",
-        "notes": "great test"
+        "notes": "Good test"
     },
     "3C 273": {
         "z": 0.158339,
         "NH_Gal": 1.68e+20,
         "type": "science",
         "reference": "",
-        "notes": "great test"
+        "notes": "Good test"
     },
     "PHL 1811": {
         "z": 0.192,
         "NH_Gal": 4.22e+20,
         "type": "science",
         "reference": "Leighly et al. 2007",
-        "notes": "very good test"
+        "notes": "Good test"
     },
     "SDSS_J082619.70+314847.9": {
         "z": 3.098,
         "NH_Gal": 4.13e+20,
         "type": "science",
         "reference": "Nardini et al. 2019",
-        "notes": "good test"
+        "notes": "Decent test"
     },
     "SDSS_J102714.77+354317.4": {
         "z": 3.118,
         "NH_Gal": 8.07e+19,
         "type": "science",
         "reference": "Nardini et al. 2019",
-        "notes": "great test"
+        "notes": "Good test"
     },
     "SDSS_J094734.19+142116.9": {
         "z": 3.034,
         "NH_Gal": 2.95e+20,
         "type": "science",
         "reference": "Nardini et al. 2019",
-        "notes": "great test"
+        "notes": "Good test"
     },
-    
-    
-    
-    
-    
-    
     "SDSS_J104111.45+573848.3": {
         "z": 2.082,
         "NH_Gal": 5.82e+19,
         "type": "science",
         "reference": "",
-        "notes": "bad weak"
+        "notes": "Bad normal"
     },
     "SDSS_J093857.01+412821.2": {
         "z": 1.958,
         "NH_Gal": 1.29e+20,
         "type": "science",
         "reference": "",
-        "notes": "eeehhh weak"
+        "notes": "Good normal"
     },
     "SDSS_J080342.03+302254.7": {
         "z": 2.030851,
         "NH_Gal": 3.63e+20,
         "type": "science",
         "reference": "",
-        "notes": "bueno weak"
+        "notes": "Good normal"
     },
     "SDSS_J113537.67+491323.2": {
         "z": 1.997,
         "NH_Gal": 1.46e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad weak"
+        "notes": "Bad normal"
     },
     "SDSS_J114900.13+592225.0": {
         "z": 1.958,
         "NH_Gal": 1.83e+20,
         "type": "science",
         "reference": "",
-        "notes": "poor weak"
+        "notes": "Decent normal"
     },
     "SDSS_J170229.55+335027.2": {
         "z": 1.826195,
         "NH_Gal": 1.84e+20,
         "type": "science",
         "reference": "",
-        "notes": "good weak"
+        "notes": "Bad normal"
     },
     "SDSS_J142745.40+554525.1": {
         "z": 1.801521,
         "NH_Gal": 1.09e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad weak"
+        "notes": "Bad normal"
     },
     "SDSS_J161455.05+264327.9": {
         "z": 2.022505,
         "NH_Gal": 3.14e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad weak"
+        "notes": "Bad normal"
     },
     "SDSS_J021649.79-061152.0": {
         "z": 2.058,
         "NH_Gal": 2.12e+20,
         "type": "science",
         "reference": "",
-        "notes": "good weak"
+        "notes": "Decent normal"
     },
     "SDSS_J122440.39+560909.7": {
         "z": 1.836,
         "NH_Gal": 1.13e+20,
         "type": "science",
         "reference": "",
-        "notes": "failed weak"
+        "notes": "Bad normal"
     },
     "SDSS_J083130.45+320537.5": {
         "z": 2.058947,
         "NH_Gal": 3.75e+20,
         "type": "science",
         "reference": "",
-        "notes": "eeehhh weak"
+        "notes": "Bad normal"
     },
     "SDSS_J020535.44-043550.8": {
         "z": 1.841,
         "NH_Gal": 1.84e+20,
         "type": "science",
         "reference": "",
-        "notes": "decent weak"
+        "notes": "Decent normal"
     },
-    
-    
-   "SDSS_J084248.86+114219.0": {
-       "z": 2.088,
-       "NH_Gal": 3.46e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "bad weak"
-   },
-   "SDSS_J150728.31+574920.1": {
-       "z": 2.075066089630127,
-       "NH_Gal": 1.66e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "bad weak"
-   },
-   "SDSS_J015356.68-001249.2": {
-       "z": 2.083,
-       "NH_Gal": 2.72e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "bad weak"
-   },    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    "SDSS_J084248.86+114219.0": {
+        "z": 2.088,
+        "NH_Gal": 3.46e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad normal"
+    },
+    "SDSS_J150728.31+574920.1": {
+        "z": 2.075066089630127,
+        "NH_Gal": 1.66e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad normal"
+    },
+    "SDSS_J015356.68-001249.2": {
+        "z": 2.083,
+        "NH_Gal": 2.72e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad normal"
+    },
     "SDSS_J142231.28+441455.6": {
         "z": 1.81734,
         "NH_Gal": 8e+19,
         "type": "science",
         "reference": "",
-        "notes": "bad normal"
+        "notes": "Bad normal"
     },
     "SDSS_J094446.36+040659.7": {
         "z": 1.821057,
         "NH_Gal": 3.7e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
+        "notes": "Good normal"
     },
     "SDSS_J112104.93+432141.6": {
         "z": 2.026,
         "NH_Gal": 2.53e+20,
         "type": "science",
         "reference": "",
-        "notes": "okay normal"
+        "notes": "Bad normal"
     },
     "SDSS_J022742.83+004002.9": {
         "z": 1.899,
         "NH_Gal": 2.37e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
+        "notes": "Good normal"
     },
     "SDSS_J073534.70+434638.2": {
         "z": 2.0566337,
         "NH_Gal": 5.39e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad normal"
+        "notes": "Bad normal"
     },
     "SDSS_J222406.03-013111.4": {
         "z": 1.9106061,
         "NH_Gal": 4.91e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
+        "notes": "Decent normal"
     },
     "SDSS_J234100.91-085531.9": {
         "z": 2.197819,
         "NH_Gal": 2.58e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
+        "notes": "Good normal"
     },
     "SDSS_J123151.66+255217.6": {
         "z": 1.983,
         "NH_Gal": 1.37e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad normal"
+        "notes": "Bad normal"
     },
     "SDSS_J142402.13+382104.1": {
         "z": 1.962223,
         "NH_Gal": 1.01e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
+        "notes": "Decent normal"
     },
     "SDSS_J124941.89+252838.9": {
         "z": 1.909,
         "NH_Gal": 8.52e+19,
         "type": "science",
         "reference": "",
-        "notes": "bad normal"
+        "notes": "Bad normal"
     },
     "SDSS_J131952.38-022543.3": {
         "z": 2.005417,
         "NH_Gal": 1.82e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
+        "notes": "Good normal"
     },
     "SDSS_J130616.67+310529.2": {
         "z": 2.023,
         "NH_Gal": 1.07e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad normal"
+        "notes": "Bad normal"
     },
-    
-    
     "SDSS_J091718.73+283845.1": {
         "z": 2.181,
         "NH_Gal": 1.79e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad normal"
+        "notes": "Bad normal"
     },
     "SDSS_J102413.91+470512.0": {
         "z": 1.977,
         "NH_Gal": 1.45e+20,
         "type": "science",
         "reference": "",
-        "notes": "poor normal"
+        "notes": "Bad normal"
     },
     "SDSS_J232344.20-005106.9": {
         "z": 1.929851,
         "NH_Gal": 3.68e+20,
         "type": "science",
         "reference": "",
-        "notes": "good normal"
-    },    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        "notes": "Good normal"
+    },
     "SDSS_J125005.72+263107.5": {
         "z": 2.048,
         "NH_Gal": 9.4e+19,
         "type": "science",
         "reference": "",
-        "notes": "beautiful strong"
+        "notes": "Good normal"
     },
     "SDSS_J090404.15+151254.5": {
         "z": 1.826,
         "NH_Gal": 3.53e+20,
         "type": "science",
         "reference": "",
-        "notes": "beautiful strong"
+        "notes": "Good normal"
     },
     "SDSS_J085141.76+161221.9": {
         "z": 1.927,
         "NH_Gal": 2.21e+20,
         "type": "science",
         "reference": "",
-        "notes": "uncertain strong"
+        "notes": "Decent normal"
     },
     "SDSS_J111350.94+401721.4": {
         "z": 2.189,
         "NH_Gal": 1.47e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad strong"
+        "notes": "Broken normal"
     },
     "SDSS_J115010.22+550709.1": {
         "z": 1.833,
         "NH_Gal": 8.65e+19,
         "type": "science",
         "reference": "",
-        "notes": "bad strong"
+        "notes": "Bad normal"
     },
     "SDSS_J141249.20+440125.8": {
         "z": 2.054,
         "NH_Gal": 7.4e+19,
         "type": "science",
         "reference": "",
-        "notes": "bad strong"
+        "notes": "Bad normal"
     },
-
     "SDSS_J121732.69+465829.3": {
         "z": 1.994106,
         "NH_Gal": 1.91e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad strong"
+        "notes": "Bad normal"
     },
     "SDSS_J212951.16+004808.8": {
         "z": 2.002,
         "NH_Gal": 3.24e+20,
         "type": "science",
         "reference": "",
-        "notes": "great strong"
+        "notes": "Good normal"
     },
     "SDSS_J160126.31+511038.2": {
         "z": 1.844626,
         "NH_Gal": 1.24e+20,
         "type": "science",
         "reference": "",
-        "notes": "bad strong"
+        "notes": "Bad normal"
     },
-   "SDSS_J092541.34+131938.9": {
-       "z": 1.87,
-       "NH_Gal": 3.21e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "good strong"
-   },
-   "SDSS_J002239.10+012950.2": {
-       "z": 1.8667128086090088,
-       "NH_Gal": 2.56e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "good strong"
-   },
-   "SDSS_J120450.78+442834.2": {
-       "z": 1.8095433712005615,
-       "NH_Gal": 1.12e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "bad strong"
-   },
-   
-   "SDSS_J133930.74+481917.7": {
-       "z": 2.143,
-       "NH_Gal": 1.58e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "bad strong"
-   },
-   "SDSS_J123508.21+391419.9": {
-       "z": 1.8414909839630127,
-       "NH_Gal": 1.44e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "good strong"
-   },
-   "SDSS_J132212.25+560725.3": {
-       "z": 1.854123830795288,
-       "NH_Gal": 1.16e+20,
-       "type": "science",
-       "reference": "",
-       "notes": "bad strong"
-   }   
+    "SDSS_J092541.34+131938.9": {
+        "z": 1.87,
+        "NH_Gal": 3.21e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Good normal"
+    },
+    "SDSS_J002239.10+012950.2": {
+        "z": 1.8667128086090088,
+        "NH_Gal": 2.56e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Good normal"
+    },
+    "SDSS_J120450.78+442834.2": {
+        "z": 1.8095433712005615,
+        "NH_Gal": 1.12e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad normal"
+    },
+    "SDSS_J133930.74+481917.7": {
+        "z": 2.143,
+        "NH_Gal": 1.58e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad normal"
+    },
+    "SDSS_J123508.21+391419.9": {
+        "z": 1.8414909839630127,
+        "NH_Gal": 1.44e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Good normal"
+    },
+    "SDSS_J132212.25+560725.3": {
+        "z": 1.854123830795288,
+        "NH_Gal": 1.16e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad normal"
+    },
+    "SDSS_J111514.96+530123.6": {
+        "z": 1.890578,
+        "NH_Gal": 8.64e+19,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J122708.29+012638.4": {
+        "z": 1.960363,
+        "NH_Gal": 1.82e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Decent weak"
+    },
+    "SDSS_J093217.17+285844.8": {
+        "z": 1.9537113904953003,
+        "NH_Gal": 1.98e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Good weak"
+    },
+    "SDSS_J080040.11+110314.1": {
+        "z": 1.817429,
+        "NH_Gal": 2.37e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Decent weak"
+    },
+    "SDSS_J112922.00+510055.9": {
+        "z": 1.851500391960144,
+        "NH_Gal": 9.8e+19,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken weak"
+    },
+    "SDSS_J125920.43+281335.8": {
+        "z": 2.16,
+        "NH_Gal": 9.83e+19,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J095006.68+391849.4": {
+        "z": 2.153195381164551,
+        "NH_Gal": 1.82e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Contaminated weak"
+    },
+    "SDSS_J132040.61+341646.4": {
+        "z": 1.878,
+        "NH_Gal": 1.03e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Decent weak"
+    },
+    "SDSS_J104600.62+484645.7": {
+        "z": 1.974,
+        "NH_Gal": 1.15e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J141502.82+525401.2": {
+        "z": 1.854,
+        "NH_Gal": 9.53e+19,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J020055.75-021050.4": {
+        "z": 1.9528166055679321,
+        "NH_Gal": 2.17e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J161709.22+562053.4": {
+        "z": 1.8303699493408203,
+        "NH_Gal": 1.46e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J140731.50+535106.7": {
+        "z": 2.089,
+        "NH_Gal": 1e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J170245.80+453705.8": {
+        "z": 1.8909759521484375,
+        "NH_Gal": 2.38e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken weak"
+    },
+    "SDSS_J083059.30+321401.7": {
+        "z": 2.183504819869995,
+        "NH_Gal": 3.96e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J004644.20+203134.4": {
+        "z": 2.0154635906219482,
+        "NH_Gal": 3.06e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J102903.02+240246.3": {
+        "z": 2.2,
+        "NH_Gal": 1.24e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J113355.46+500722.3": {
+        "z": 2.145519971847534,
+        "NH_Gal": 1.32e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J091324.73+420454.4": {
+        "z": 2.003615379333496,
+        "NH_Gal": 1.44e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J075021.46+421625.4": {
+        "z": 1.8263282775878906,
+        "NH_Gal": 4.42e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken weak"
+    },
+    "SDSS_J023444.27-040645.9": {
+        "z": 2.047590732574463,
+        "NH_Gal": 2.11e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J023015.10-041917.9": {
+        "z": 1.8452175855636597,
+        "NH_Gal": 2.24e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J113000.64+583248.3": {
+        "z": 1.845319,
+        "NH_Gal": 8.06e+19,
+        "type": "science",
+        "reference": "",
+        "notes": "Contaminated weak"
+    },
+    "SDSS_J092634.23+521150.1": {
+        "z": 1.8465927839279175,
+        "NH_Gal": 1.3e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken weak"
+    },
+    "SDSS_J123000.67+413456.3": {
+        "z": 1.9500538110733032,
+        "NH_Gal": 3.28e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Contaminated weak"
+    },
+    "SDSS_J125859.62+311845.3": {
+        "z": 1.939,
+        "NH_Gal": 1.3e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J115954.93+341615.0": {
+        "z": 1.834,
+        "NH_Gal": 1.44e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken weak"
+    },
+    "SDSS_J151617.75+560853.2": {
+        "z": 2.102,
+        "NH_Gal": 1.66e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad weak"
+    },
+    "SDSS_J122646.74+334037.0": {
+        "z": 2.0348026752471924,
+        "NH_Gal": 2.19e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Contaminated weak"
+    },
+    "SDSS_J092632.08+522227.8": {
+        "z": 1.8055357933044434,
+        "NH_Gal": 1.28e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Contaminated weak"
+    },
+    "SDSS_J131109.57+391128.5": {
+        "z": 2.146,
+        "NH_Gal": 1.29e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Good weak"
+    },
+    "SDSS_J152557.27+565529.5": {
+        "z": 2.093,
+        "NH_Gal": 1.18e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad strong"
+    },
+    "SDSS_J093745.53+542931.4": {
+        "z": 1.915,
+        "NH_Gal": 2.07e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad strong"
+    },
+    "SDSS_J091114.17+451649.2": {
+        "z": 2.08,
+        "NH_Gal": 1.28e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad strong"
+    },
+    "SDSS_J103215.88+574926.3": {
+        "z": 1.835,
+        "NH_Gal": 6.27e+19,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad strong"
+    },
+    "SDSS_J021322.99-042134.3": {
+        "z": 1.905199646949768,
+        "NH_Gal": 1.84e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Contaminated strong"
+    },
+    "SDSS_J020543.75-063807.0": {
+        "z": 1.962,
+        "NH_Gal": 1.82e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Decent strong"
+    },
+    "SDSS_J092038.16+510729.7": {
+        "z": 2.1867477893829346,
+        "NH_Gal": 1.88e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken strong"
+    },
+    "SDSS_J005626.55-011728.3": {
+        "z": 2.0572073459625244,
+        "NH_Gal": 3.22e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Broken strong"
+    },
+    "SDSS_J211102.60+105038.3": {
+        "z": 1.896023,
+        "NH_Gal": 5.99e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad strong"
+    },
+    "SDSS_J145339.63+184525.4": {
+        "z": 2.101,
+        "NH_Gal": 2.49e+20,
+        "type": "science",
+        "reference": "",
+        "notes": "Bad strong"
+    }
 }
