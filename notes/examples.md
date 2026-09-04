@@ -62,6 +62,20 @@
 ‡No match in Δαox catalogue.
 </sup></sub>
 
+## Target Analysis.
+
+Most targets are consistent within 3σ.
+
+# Exceptions: 3C 273, PG 1211+143, J131109.57+391128.5, J004644.20+203134.4.
+
+<b>3C 273</b> is consistent within infinite σ. This is due the 5XMM database containing a photon index value, but no uncertainty on it.
+As a result, the pipeline calculates an infinite σ. 
+
+<b>PG 1211+143</b> is consistent within 67.69σ. This is due to both the pipeline and 5XMM presenting near zero error width.
+As a result, the pipeline calculates a 67.69σ.
+
+
+
 # Population Summary
 
 ### Example results of 4XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
