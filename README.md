@@ -2,7 +2,8 @@
 ### NOTE: Project still under development, README may not be up-to-date. Code subject to change and may contain bugs.
 
 Modular pipeline created to analyse X-ray weak, normal and strong AGN from XMM-Newton observations.
-<i>For setup requirements, see `requirements.md`.</i>
+
+<i>For setup requirements, see</i> `requirements.md`.
 
 ---
 
