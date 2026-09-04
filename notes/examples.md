@@ -76,7 +76,7 @@ As a result, the pipeline calculates a 67.69σ.
 
 <b>J131109.57+391128.5</b> is consistent within 4.41σ. This target, however, does not contain an obvious reason at first glance.
 
-By looking at the spectra [**Figure 1**](#fig1) produced (ObsID: 0827031301), one can see that there is a very large peak in the PN spectra at approximately 1.55–1.65 keV (4.88–5.19 keV in the rest frame). It is consistent with instrumental contamination within EPIC PN, given that this peak is not present in MOS1 or MOS2. This explains the independent photon index values between PN and MOS
+By looking at the spectra [**Figure 1**](#fig1) produced (ObsID: 0827031301), one can see that there is a very large peak in the PN spectra at approximately 1.55-1.65 keV (4.88-5.19 keV in the rest frame). It is consistent with instrumental contamination within EPIC PN, given that this peak is not present in MOS1 or MOS2.
 | Fit | Γ |
 |---|---|
 | Combined | 1.24 (1.23, 1.24) |
@@ -90,7 +90,19 @@ By looking at the spectra [**Figure 1**](#fig1) produced (ObsID: 0827031301), on
 
 **Figure 1. Spectra plot of J131109.57+391128.5, ObsID 0827031301 with PN, MOS1 and MOS2**
 
+However, removing PN value and looking specifically at MOS increases the consistency width. This suggests that the peak in PN is not the reason why the consistency width is so larger.
+Rather, it suggests that target may have a strong energy dependence or that there may be a literature mismatch between the value to pipeline generates and the value in the 5XMM catalogue.
+There are also visible peaks in MOS, though less pronounced, at approximately 0.28-0.30 keV (0.81-0.87 keV in the rest frame). This is consistent with documented calibration issues within MOS1 and MOS2.
 
+<b>J004644.20+203134.4</b> is consistent within 4.99σ. This too does not contain an obvious reason at first glance. Looking at its spectra, both are much lower count than that of J131109.57+391128.5. This likely explains the reason for its low photon index. Simply, there just are not enough counts to accurately map it as a power law spectra. However, it is also important to look at the spectra directly. The 0652460101 spectra in [**Figure 2**](#fig2) shows a relatively flat, low count spectra. Consistent with the low count mapping issue described. The 0652460201 spectra [**Figure 3**](#fig3) also shows a relatively flat, low count spectra. However, there is also a large peak in the PN spectra at approximately 1.55-1.65 keV (4.49-4.78 in the rest frame). This appears to provide further evidence for the instrumentational peak in J131109.57+391128.5's PN spectra, showing that is it appears across different targets, with observations taken at different times.
+
+<a id="fig2"></a>
+<img width="1485" height="1478" alt="spectra_0652460101" src="https://github.com/user-attachments/assets/1ad26e13-2d7f-480f-b9fe-90ae523b3b24" />
+**Figure 2. Spectra plot of J004644.20+203134.4, ObsID 0652460101 with PN, MOS1 and MOS2**
+
+<a id="fig3"></a>
+<img width="1485" height="1478" alt="spectra_0652460201" src="https://github.com/user-attachments/assets/927cd48b-66f3-4037-83b8-502246ddd316" />
+**Figure 3. Spectra plot of J004644.20+203134.4, ObsID 0652460201 with PN, MOS1 and MOS2**
 
 # Population Summary
 
