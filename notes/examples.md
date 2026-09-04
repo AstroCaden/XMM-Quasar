@@ -3,7 +3,7 @@
 ### Example results using all targets in target_catalogue.json and the parameters set out in config.json:
 
 ## Test (6)
-| Target | Δαox | Γ (best fit) | Γ$_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
+| Target | Δαox | Γ (best fit) | $Γ_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
 |---|---|---|---|---|---|---|---|
 | 3C 273 | - | 1.55 (1.55, 1.55) | 1.74 (n/a) | inf | combined | -0.46 (-0.47, -0.44) | - |
 | PG 1211+143 | - | 2.60 (2.60, 2.60) | 2.36 (2.36, 2.36) | 67.69 | combined | -0.36 (-1.00, 0.14) | - |
@@ -13,7 +13,7 @@
 | J082619.70+314847.9 | - | 1.79 (1.59, 2.01) | 1.93 (1.66, 2.30) | 0.35 | combined | -0.69 (-1.00, -0.56) | n.d. |
 
 ## Weak (6)
-| Target | Δαox | Γ (best fit) | Γ$_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
+| Target | Δαox | Γ (best fit) | $Γ_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
 |---|---|---|---|---|---|---|---|
 | J093217.17+285844.8 | -0.31 | 2.87 (2.71, 3.05) | 2.65 (2.48, 2.87) | 0.87 | combined | -0.97 (-1.00, -0.95) | n.d. |
 | J131109.57+391128.5 | -0.40 | 1.24 (1.23, 1.24) | 2.56 (2.24, 2.84) | 4.41 | combined | - | n.d. |
