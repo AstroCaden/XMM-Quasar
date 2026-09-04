@@ -1,0 +1,430 @@
+2026-09-04 17:03:20,684 - INFO - Beginning reprocessing
+2026-09-04 17:03:20,685 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/ccf.cif
+2026-09-04 17:03:20,731 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_SCX00000SUM.SAS
+2026-09-04 17:03:20,732 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_ImagingEvts.ds
+2026-09-04 17:03:20,733 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_ImagingEvts.ds
+2026-09-04 17:03:20,733 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS1_S001_ImagingEvts.ds
+2026-09-04 17:03:20,734 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_11_Badpixels.ds
+2026-09-04 17:03:20,734 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS1_S001_05_Badpixels.ds
+2026-09-04 17:03:20,734 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_06_Badpixels.ds
+2026-09-04 17:03:20,734 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_09_Badpixels.ds
+2026-09-04 17:03:20,735 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_03_Badpixels.ds
+2026-09-04 17:03:20,735 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_04_Badpixels.ds
+2026-09-04 17:03:20,735 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_03_Badpixels.ds
+2026-09-04 17:03:20,735 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS1_S001_07_Badpixels.ds
+2026-09-04 17:03:20,735 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_10_Badpixels.ds
+2026-09-04 17:03:20,736 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_07_Badpixels.ds
+2026-09-04 17:03:20,736 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_02_Badpixels.ds
+2026-09-04 17:03:20,736 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_05_Badpixels.ds
+2026-09-04 17:03:20,736 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_01_Badpixels.ds
+2026-09-04 17:03:20,736 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_08_Badpixels.ds
+2026-09-04 17:03:20,736 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_05_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_06_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS1_S001_04_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_02_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS1_S001_01_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_04_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS1_S001_02_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EMOS2_S002_07_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_01_Badpixels.ds
+2026-09-04 17:03:20,737 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/3470_0821722201_EPN_S003_12_Badpixels.ds
+2026-09-04 17:03:20,738 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_clean.ds
+2026-09-04 17:03:20,738 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_clean.ds
+2026-09-04 17:03:20,738 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_clean.ds
+2026-09-04 17:03:20,739 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_gti.ds
+2026-09-04 17:03:20,739 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_gti.ds
+2026-09-04 17:03:20,739 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_gti.ds
+2026-09-04 17:03:20,739 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_bkg_lc.ds
+2026-09-04 17:03:20,740 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_bkg_lc.ds
+2026-09-04 17:03:20,740 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_bkg_lc.ds
+2026-09-04 17:03:20,740 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_src_spec.fits
+2026-09-04 17:03:20,740 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_src_spec.fits
+2026-09-04 17:03:20,741 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_src_spec.fits
+2026-09-04 17:03:20,741 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_bkg_spec.fits
+2026-09-04 17:03:20,741 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_bkg_spec.fits
+2026-09-04 17:03:20,742 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_bkg_spec.fits
+2026-09-04 17:03:20,742 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2.rmf
+2026-09-04 17:03:20,742 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn.rmf
+2026-09-04 17:03:20,743 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1.rmf
+2026-09-04 17:03:20,743 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn.arf
+2026-09-04 17:03:20,743 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1.arf
+2026-09-04 17:03:20,744 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2.arf
+2026-09-04 17:03:20,744 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_src_lc.ds
+2026-09-04 17:03:20,744 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_src_lc.ds
+2026-09-04 17:03:20,744 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_src_lc.ds
+2026-09-04 17:03:20,744 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_bkg_lc_sci.ds
+2026-09-04 17:03:20,744 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_bkg_lc_sci.ds
+2026-09-04 17:03:20,745 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_bkg_lc_sci.ds
+2026-09-04 17:03:20,745 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos2_corrected_lc.ds
+2026-09-04 17:03:20,745 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/mos1_corrected_lc.ds
+2026-09-04 17:03:20,745 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/pn_corrected_lc.ds
+2026-09-04 17:03:20,745 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/behr_0821722201_HR.txt
+2026-09-04 17:03:20,745 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722201/3470_0821722201/behr_0821722201.txt
+2026-09-04 17:03:20,747 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/matched_catalogue.fits
+2026-09-04 17:03:20,747 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/aox_catalogue_standard.fits
+2026-09-04 17:03:20,748 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/ccf.cif
+2026-09-04 17:03:20,748 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_SCX00000SUM.SAS
+2026-09-04 17:03:20,748 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_ImagingEvts.ds
+2026-09-04 17:03:20,748 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_ImagingEvts.ds
+2026-09-04 17:03:20,748 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS1_S001_ImagingEvts.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_01_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_06_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_01_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_11_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS1_S001_01_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS1_S001_07_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_10_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_06_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS1_S001_05_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_07_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_07_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_05_Badpixels.ds
+2026-09-04 17:03:20,749 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_04_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_04_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_05_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_08_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_03_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_02_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS1_S001_04_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS1_S001_02_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_03_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EMOS2_S002_02_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_12_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/3470_0821722401_EPN_U002_09_Badpixels.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/pn_clean.ds
+2026-09-04 17:03:20,750 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/mos1_clean.ds
+2026-09-04 17:03:20,751 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/mos2_clean.ds
+2026-09-04 17:03:20,751 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/mos1_gti.ds
+2026-09-04 17:03:20,751 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/mos2_gti.ds
+2026-09-04 17:03:20,751 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/pn_gti.ds
+2026-09-04 17:03:20,751 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/pn_bkg_lc.ds
+2026-09-04 17:03:20,751 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/mos1_bkg_lc.ds
+2026-09-04 17:03:20,752 - INFO - Removed /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/ObsIDs/0821722401/3470_0821722401/mos2_bkg_lc.ds
+2026-09-04 17:03:27,268 - INFO - Cannot find exposure column
+2026-09-04 17:03:27,268 - INFO - No new ObsIDs available to download.
+2026-09-04 17:03:27,269 - INFO - 5XMM-DR15 already downloaded, skipping
+2026-09-04 17:03:27,269 - INFO - SDSS DR16 already downloaded, skipping
+2026-09-04 17:04:35,480 - INFO - 0821722201: epreject failed on 3470_0821722201_PNS00311IME.FIT, continuing without it
+2026-09-04 17:28:08,334 - INFO - GTI filtering done
+2026-09-04 17:28:08,918 - INFO - GTI filtering done
+2026-09-04 17:28:09,720 - INFO - GTI filtering done
+2026-09-04 17:28:12,413 - INFO - GTI filtering done
+2026-09-04 17:28:12,825 - INFO - GTI filtering done
+2026-09-04 17:28:13,347 - INFO - GTI filtering done
+2026-09-04 17:28:15,654 - INFO - 0821722201: 1195 raw PN counts in 0.5-8 keV source region
+2026-09-04 17:28:16,391 - INFO - 0821722401: 0 raw PN counts in 0.5-8 keV source region
+2026-09-04 17:28:16,391 - INFO - 0821722401: Low counts, may not fit photon index well
+2026-09-04 17:28:16,391 - INFO - 0821722401: below min_counts, dropping from processing
+2026-09-04 17:28:16,398 - INFO - SAS environment set: 3470_0821722201_SCX00000SUM.SAS
+2026-09-04 17:41:00,564 - INFO - Spectral processing done.
+2026-09-04 17:56:14,356 - INFO - Spectral processing done.
+2026-09-04 18:09:06,055 - INFO - Spectral processing done.
+2026-09-04 18:09:06,102 - INFO - SAS environment set: 3470_0821722201_SCX00000SUM.SAS
+2026-09-04 18:09:49,099 - INFO - Found 8 contaminating sources in background annulus, excluding
+2026-09-04 18:12:02,891 - INFO - Loading 5XMM-DR15...
+2026-09-04 18:12:35,763 - INFO - Loading SDSS DR16...
+2026-09-04 18:12:46,154 - INFO - SDSS: 750414 quasars before redshift cut
+2026-09-04 18:12:46,904 - INFO - SDSS: 127418 quasars after z = 1.8-2.2 cut
+2026-09-04 18:12:46,904 - INFO - Building sky coordinates...
+2026-09-04 18:12:47,034 - INFO - Crossmatching...
+2026-09-04 18:12:47,580 - INFO - Found 4198 matches within 5 arcsec
+2026-09-04 18:13:00,667 - INFO - Matched catalogue saved to matched_catalogue.fits
+2026-09-04 18:13:03,135 - INFO - After quality cuts: 1658 sources
+2026-09-04 18:13:03,653 - INFO - Δαox catalogue saved: aox_catalogue_standard.fits
+2026-09-04 18:13:04,843 - INFO - LX-LUV plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/lx_luv_standard_field_1.7.png
+2026-09-04 18:13:05,530 - INFO - CIV correlation plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/civ_correlation_standard_1.7.png
+2026-09-04 18:13:06,090 - INFO - Hubble diagram saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/hubble_diagram_standard_1.7.png
+2026-09-04 18:13:06,351 - INFO - Population summary saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/population_summary_standard_1.7.csv
+2026-09-04 18:13:06,352 - INFO - n=1658, weak=46 (2.8%), normal=1600 (96.5%), strong=12 (0.7%)
+2026-09-04 18:13:06,908 - INFO - Δαox distribution plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/delta_aox_distribution_standard_1.7.png, one-sided 99% threshold = ±0.319 (config uses ±0.3)
+2026-09-04 18:13:08,399 - INFO - Light curve plotted.
+2026-09-04 18:13:12,738 - INFO - Spectra plotted.
+2026-09-04 18:13:14,476 - INFO - Combined light curve plotted.
+2026-09-04 18:13:15,944 - INFO - Combined spectra plotted.
+2026-09-04 18:13:15,973 - INFO - 0821722201: background BACKSCAL is zero, skipping BEHR
+2026-09-04 18:13:15,973 - INFO - No hardness ratios produced
+2026-09-04 18:13:15,978 - INFO - 0821722201 pn: Fvar² negative, recording as upper limit
+2026-09-04 18:13:15,978 - INFO - 0821722201 pn: Fvar = 0.0000 ± 0.0250
+2026-09-04 18:13:15,982 - INFO - 0821722201 mos1: Fvar² negative, recording as upper limit
+2026-09-04 18:13:15,982 - INFO - 0821722201 mos1: Fvar = 0.0000 ± 0.0627
+2026-09-04 18:13:15,986 - INFO - 0821722201 mos2: Fvar² negative, recording as upper limit
+2026-09-04 18:13:15,986 - INFO - 0821722201 mos2: Fvar = 0.0000 ± 0.0620
+2026-09-04 18:13:15,986 - INFO - Fvar saved to /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/fvar_SDSS_J212951.16_004808.8.csv
+2026-09-04 18:13:21,074 - INFO - 0821722201 combined: Γ = 1.46 (1.46, 1.47) cstat/dof = 285356.5/2818
+2026-09-04 18:13:21,725 - INFO - 0821722201 pn: Γ = 4.78 (0.00, 0.00) cstat/dof = 240641.1/940
+2026-09-04 18:13:24,810 - INFO - 0821722201 mos: Γ = 1.51 (1.50, 1.51) cstat/dof = 25805.0/1876
+2026-09-04 18:13:24,846 - INFO - Spectral fits saved to /home/cananden/Documents/python/XMM-Quasar-main/Datasets/SDSS_J212951.16_004808.8/spectral_fits_SDSS_J212951.16_004808.8.csv
+2026-09-04 18:13:25,087 - INFO - PG 1211+143: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,089 - INFO - PG 1211+143: test (Δαox=N/A), 4 obsid row(s) written
+2026-09-04 18:13:25,092 - INFO - 3C 273: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,094 - INFO - 3C 273: test (Δαox=N/A), 4 obsid row(s) written
+2026-09-04 18:13:25,097 - INFO - PHL 1811: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,099 - INFO - PHL 1811: test (Δαox=N/A), 2 obsid row(s) written
+2026-09-04 18:13:25,110 - INFO - SDSS_J082619.70+314847.9: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,113 - INFO - SDSS_J082619.70+314847.9: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,124 - INFO - SDSS_J102714.77+354317.4: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,126 - INFO - SDSS_J102714.77+354317.4: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,136 - INFO - SDSS_J094734.19+142116.9: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,138 - INFO - SDSS_J094734.19+142116.9: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,150 - INFO - SDSS_J104111.45+573848.3: normal (Δαox=-0.14), 1 obsid row(s) written
+2026-09-04 18:13:25,161 - INFO - SDSS_J093857.01+412821.2: normal (Δαox=-0.15), 2 obsid row(s) written
+2026-09-04 18:13:25,173 - INFO - SDSS_J080342.03+302254.7: normal (Δαox=-0.14), 1 obsid row(s) written
+2026-09-04 18:13:25,183 - INFO - SDSS_J113537.67+491323.2: spectral_fits_SDSS_J113537.67_491323.2.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,184 - INFO - SDSS_J113537.67+491323.2: hardness_ratios_SDSS_J113537.67_491323.2.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,184 - INFO - SDSS_J113537.67+491323.2: fvar_SDSS_J113537.67_491323.2.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,184 - INFO - SDSS_J113537.67+491323.2: normal (Δαox=-0.08), 1 obsid row(s) written
+2026-09-04 18:13:25,196 - INFO - SDSS_J114900.13+592225.0: normal (Δαox=-0.16), 2 obsid row(s) written
+2026-09-04 18:13:25,207 - INFO - SDSS_J170229.55+335027.2: normal (Δαox=-0.18), 1 obsid row(s) written
+2026-09-04 18:13:25,219 - INFO - SDSS_J142745.40+554525.1: normal (Δαox=-0.11), 1 obsid row(s) written
+2026-09-04 18:13:25,229 - INFO - SDSS_J161455.05+264327.9: normal (Δαox=-0.13), 1 obsid row(s) written
+2026-09-04 18:13:25,241 - INFO - SDSS_J021649.79-061152.0: normal (Δαox=0.01), 1 obsid row(s) written
+2026-09-04 18:13:25,251 - INFO - SDSS_J122440.39+560909.7: spectral_fits_SDSS_J122440.39_560909.7.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,251 - INFO - SDSS_J122440.39+560909.7: hardness_ratios_SDSS_J122440.39_560909.7.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,252 - INFO - SDSS_J122440.39+560909.7: fvar_SDSS_J122440.39_560909.7.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,252 - INFO - SDSS_J122440.39+560909.7: normal (Δαox=-0.12), 1 obsid row(s) written
+2026-09-04 18:13:25,263 - INFO - SDSS_J083130.45+320537.5: normal (Δαox=-0.18), 1 obsid row(s) written
+2026-09-04 18:13:25,274 - INFO - SDSS_J020535.44-043550.8: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,276 - INFO - SDSS_J020535.44-043550.8: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,286 - INFO - SDSS_J084248.86+114219.0: spectral_fits_SDSS_J084248.86_114219.0.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,286 - INFO - SDSS_J084248.86+114219.0: hardness_ratios_SDSS_J084248.86_114219.0.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,287 - INFO - SDSS_J084248.86+114219.0: fvar_SDSS_J084248.86_114219.0.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,287 - INFO - SDSS_J084248.86+114219.0: normal (Δαox=-0.12), 1 obsid row(s) written
+2026-09-04 18:13:25,297 - INFO - SDSS_J150728.31+574920.1: spectral_fits_SDSS_J150728.31_574920.1.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,297 - INFO - SDSS_J150728.31+574920.1: hardness_ratios_SDSS_J150728.31_574920.1.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,297 - INFO - SDSS_J150728.31+574920.1: fvar_SDSS_J150728.31_574920.1.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,297 - INFO - SDSS_J150728.31+574920.1: normal (Δαox=-0.13), 1 obsid row(s) written
+2026-09-04 18:13:25,308 - INFO - SDSS_J015356.68-001249.2: spectral_fits_SDSS_J015356.68-001249.2.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,309 - INFO - SDSS_J015356.68-001249.2: normal (Δαox=-0.12), 1 obsid row(s) written
+2026-09-04 18:13:25,320 - INFO - SDSS_J142231.28+441455.6: spectral_fits_SDSS_J142231.28_441455.6.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,322 - INFO - SDSS_J142231.28+441455.6: normal (Δαox=0.01), 1 obsid row(s) written
+2026-09-04 18:13:25,333 - INFO - SDSS_J094446.36+040659.7: normal (Δαox=0.01), 1 obsid row(s) written
+2026-09-04 18:13:25,344 - INFO - SDSS_J112104.93+432141.6: normal (Δαox=-0.00), 1 obsid row(s) written
+2026-09-04 18:13:25,356 - INFO - SDSS_J022742.83+004002.9: normal (Δαox=-0.01), 1 obsid row(s) written
+2026-09-04 18:13:25,367 - INFO - SDSS_J073534.70+434638.2: normal (Δαox=0.01), 2 obsid row(s) written
+2026-09-04 18:13:25,378 - INFO - SDSS_J222406.03-013111.4: normal (Δαox=0.03), 1 obsid row(s) written
+2026-09-04 18:13:25,389 - INFO - SDSS_J234100.91-085531.9: normal (Δαox=-0.01), 1 obsid row(s) written
+2026-09-04 18:13:25,400 - INFO - SDSS_J123151.66+255217.6: normal (Δαox=-0.07), 1 obsid row(s) written
+2026-09-04 18:13:25,411 - INFO - SDSS_J142402.13+382104.1: normal (Δαox=-0.07), 2 obsid row(s) written
+2026-09-04 18:13:25,421 - INFO - SDSS_J124941.89+252838.9: spectral_fits_SDSS_J124941.89_252838.9.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,421 - INFO - SDSS_J124941.89+252838.9: hardness_ratios_SDSS_J124941.89_252838.9.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,421 - INFO - SDSS_J124941.89+252838.9: fvar_SDSS_J124941.89_252838.9.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,421 - INFO - SDSS_J124941.89+252838.9: normal (Δαox=-0.08), 1 obsid row(s) written
+2026-09-04 18:13:25,432 - INFO - SDSS_J131952.38-022543.3: normal (Δαox=-0.04), 1 obsid row(s) written
+2026-09-04 18:13:25,442 - INFO - SDSS_J130616.67+310529.2: spectral_fits_SDSS_J130616.67_310529.2.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,443 - INFO - SDSS_J130616.67+310529.2: normal (Δαox=-0.04), 1 obsid row(s) written
+2026-09-04 18:13:25,455 - INFO - SDSS_J091718.73+283845.1: normal (Δαox=0.01), 1 obsid row(s) written
+2026-09-04 18:13:25,466 - INFO - SDSS_J102413.91+470512.0: normal (Δαox=-0.05), 1 obsid row(s) written
+2026-09-04 18:13:25,477 - INFO - SDSS_J232344.20-005106.9: normal (Δαox=-0.00), 1 obsid row(s) written
+2026-09-04 18:13:25,488 - INFO - SDSS_J125005.72+263107.5: normal (Δαox=0.22), 2 obsid row(s) written
+2026-09-04 18:13:25,499 - INFO - SDSS_J090404.15+151254.5: normal (Δαox=0.14), 1 obsid row(s) written
+2026-09-04 18:13:25,510 - INFO - SDSS_J085141.76+161221.9: normal (Δαox=0.14), 1 obsid row(s) written
+2026-09-04 18:13:25,520 - INFO - SDSS_J111350.94+401721.4: spectral_fits_SDSS_J111350.94_401721.4.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,520 - INFO - SDSS_J111350.94+401721.4: hardness_ratios_SDSS_J111350.94_401721.4.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,520 - INFO - SDSS_J111350.94+401721.4: fvar_SDSS_J111350.94_401721.4.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,520 - INFO - SDSS_J111350.94+401721.4: normal (Δαox=0.15), 1 obsid row(s) written
+2026-09-04 18:13:25,530 - INFO - SDSS_J115010.22+550709.1: spectral_fits_SDSS_J115010.22_550709.1.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,530 - INFO - SDSS_J115010.22+550709.1: hardness_ratios_SDSS_J115010.22_550709.1.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,531 - INFO - SDSS_J115010.22+550709.1: fvar_SDSS_J115010.22_550709.1.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,531 - INFO - SDSS_J115010.22+550709.1: normal (Δαox=0.24), 1 obsid row(s) written
+2026-09-04 18:13:25,545 - INFO - SDSS_J141249.20+440125.8: spectral_fits_SDSS_J141249.20_440125.8.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,545 - INFO - SDSS_J141249.20+440125.8: hardness_ratios_SDSS_J141249.20_440125.8.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,546 - INFO - SDSS_J141249.20+440125.8: fvar_SDSS_J141249.20_440125.8.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,548 - INFO - SDSS_J141249.20+440125.8: strong (Δαox=0.30), 1 obsid row(s) written
+2026-09-04 18:13:25,562 - INFO - SDSS_J121732.69+465829.3: spectral_fits_SDSS_J121732.69_465829.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,562 - INFO - SDSS_J121732.69+465829.3: hardness_ratios_SDSS_J121732.69_465829.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,562 - INFO - SDSS_J121732.69+465829.3: fvar_SDSS_J121732.69_465829.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,562 - INFO - SDSS_J121732.69+465829.3: normal (Δαox=0.21), 1 obsid row(s) written
+2026-09-04 18:13:25,573 - INFO - SDSS_J212951.16+004808.8: normal (Δαox=0.15), 1 obsid row(s) written
+2026-09-04 18:13:25,583 - INFO - SDSS_J160126.31+511038.2: hardness_ratios_SDSS_J160126.31_511038.2.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,584 - INFO - SDSS_J160126.31+511038.2: normal (Δαox=0.16), 1 obsid row(s) written
+2026-09-04 18:13:25,595 - INFO - SDSS_J092541.34+131938.9: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,597 - INFO - SDSS_J092541.34+131938.9: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,607 - INFO - SDSS_J002239.10+012950.2: normal (Δαox=0.14), 1 obsid row(s) written
+2026-09-04 18:13:25,617 - INFO - SDSS_J120450.78+442834.2: spectral_fits_SDSS_J120450.78_442834.2.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,617 - INFO - SDSS_J120450.78+442834.2: hardness_ratios_SDSS_J120450.78_442834.2.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,617 - INFO - SDSS_J120450.78+442834.2: fvar_SDSS_J120450.78_442834.2.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,617 - INFO - SDSS_J120450.78+442834.2: normal (Δαox=0.22), 1 obsid row(s) written
+2026-09-04 18:13:25,628 - INFO - SDSS_J133930.74+481917.7: spectral_fits_SDSS_J133930.74_481917.7.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,628 - INFO - SDSS_J133930.74+481917.7: hardness_ratios_SDSS_J133930.74_481917.7.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,628 - INFO - SDSS_J133930.74+481917.7: fvar_SDSS_J133930.74_481917.7.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,628 - INFO - SDSS_J133930.74+481917.7: normal (Δαox=0.19), 1 obsid row(s) written
+2026-09-04 18:13:25,650 - INFO - SDSS_J123508.21+391419.9: normal (Δαox=0.15), 1 obsid row(s) written
+2026-09-04 18:13:25,661 - INFO - SDSS_J132212.25+560725.3: spectral_fits_SDSS_J132212.25_560725.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,661 - INFO - SDSS_J132212.25+560725.3: hardness_ratios_SDSS_J132212.25_560725.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,661 - INFO - SDSS_J132212.25+560725.3: fvar_SDSS_J132212.25_560725.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,661 - INFO - SDSS_J132212.25+560725.3: normal (Δαox=0.20), 1 obsid row(s) written
+2026-09-04 18:13:25,672 - INFO - SDSS_J111514.96+530123.6: spectral_fits_SDSS_J111514.96_530123.6.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,672 - INFO - SDSS_J111514.96+530123.6: hardness_ratios_SDSS_J111514.96_530123.6.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,672 - INFO - SDSS_J111514.96+530123.6: fvar_SDSS_J111514.96_530123.6.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,672 - INFO - SDSS_J111514.96+530123.6: normal (Δαox=-0.26), 1 obsid row(s) written
+2026-09-04 18:13:25,684 - INFO - SDSS_J122708.29+012638.4: weak (Δαox=-0.39), 1 obsid row(s) written
+2026-09-04 18:13:25,695 - INFO - SDSS_J093217.17+285844.8: weak (Δαox=-0.31), 1 obsid row(s) written
+2026-09-04 18:13:25,707 - INFO - SDSS_J080040.11+110314.1: weak (Δαox=-0.34), 1 obsid row(s) written
+2026-09-04 18:13:25,718 - INFO - SDSS_J112922.00+510055.9: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,719 - INFO - SDSS_J112922.00+510055.9: spectral_fits_SDSS_J112922.00_510055.9.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,719 - INFO - SDSS_J112922.00+510055.9: hardness_ratios_SDSS_J112922.00_510055.9.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,720 - INFO - SDSS_J112922.00+510055.9: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,729 - INFO - SDSS_J125920.43+281335.8: spectral_fits_SDSS_J125920.43_281335.8.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,730 - INFO - SDSS_J125920.43+281335.8: weak (Δαox=-0.41), 1 obsid row(s) written
+2026-09-04 18:13:25,742 - INFO - SDSS_J095006.68+391849.4: spectral_fits_SDSS_J095006.68_391849.4.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,742 - INFO - SDSS_J095006.68+391849.4: hardness_ratios_SDSS_J095006.68_391849.4.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,742 - INFO - SDSS_J095006.68+391849.4: fvar_SDSS_J095006.68_391849.4.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,742 - INFO - SDSS_J095006.68+391849.4: normal (Δαox=-0.28), 1 obsid row(s) written
+2026-09-04 18:13:25,754 - INFO - SDSS_J132040.61+341646.4: weak (Δαox=-0.33), 1 obsid row(s) written
+2026-09-04 18:13:25,765 - INFO - SDSS_J104600.62+484645.7: spectral_fits_SDSS_J104600.62_484645.7.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,766 - INFO - SDSS_J104600.62+484645.7: normal (Δαox=-0.29), 1 obsid row(s) written
+2026-09-04 18:13:25,779 - INFO - SDSS_J141502.82+525401.2: weak (Δαox=-0.30), 2 obsid row(s) written
+2026-09-04 18:13:25,791 - INFO - SDSS_J020055.75-021050.4: normal (Δαox=-0.29), 1 obsid row(s) written
+2026-09-04 18:13:25,802 - INFO - SDSS_J161709.22+562053.4: spectral_fits_SDSS_J161709.22_562053.4.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,803 - INFO - SDSS_J161709.22+562053.4: weak (Δαox=-0.56), 1 obsid row(s) written
+2026-09-04 18:13:25,815 - INFO - SDSS_J140731.50+535106.7: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,815 - INFO - SDSS_J140731.50+535106.7: spectral_fits_SDSS_J140731.50_535106.7.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,816 - INFO - SDSS_J140731.50+535106.7: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,830 - INFO - SDSS_J170245.80+453705.8: spectral_fits_SDSS_J170245.80_453705.8.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,830 - INFO - SDSS_J170245.80+453705.8: hardness_ratios_SDSS_J170245.80_453705.8.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,830 - INFO - SDSS_J170245.80+453705.8: fvar_SDSS_J170245.80_453705.8.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,831 - INFO - SDSS_J170245.80+453705.8: weak (Δαox=-0.32), 1 obsid row(s) written
+2026-09-04 18:13:25,862 - INFO - SDSS_J083059.30+321401.7: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,864 - INFO - SDSS_J083059.30+321401.7: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,875 - INFO - SDSS_J004644.20+203134.4: weak (Δαox=-0.35), 2 obsid row(s) written
+2026-09-04 18:13:25,885 - INFO - SDSS_J102903.02+240246.3: spectral_fits_SDSS_J102903.02_240246.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,885 - INFO - SDSS_J102903.02+240246.3: hardness_ratios_SDSS_J102903.02_240246.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,885 - INFO - SDSS_J102903.02+240246.3: fvar_SDSS_J102903.02_240246.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,886 - INFO - SDSS_J102903.02+240246.3: weak (Δαox=-0.37), 1 obsid row(s) written
+2026-09-04 18:13:25,896 - INFO - SDSS_J113355.46+500722.3: spectral_fits_SDSS_J113355.46_500722.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,896 - INFO - SDSS_J113355.46+500722.3: hardness_ratios_SDSS_J113355.46_500722.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,896 - INFO - SDSS_J113355.46+500722.3: fvar_SDSS_J113355.46_500722.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,896 - INFO - SDSS_J113355.46+500722.3: weak (Δαox=-0.32), 1 obsid row(s) written
+2026-09-04 18:13:25,906 - INFO - SDSS_J091324.73+420454.4: spectral_fits_SDSS_J091324.73_420454.4.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,906 - INFO - SDSS_J091324.73+420454.4: hardness_ratios_SDSS_J091324.73_420454.4.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,906 - INFO - SDSS_J091324.73+420454.4: fvar_SDSS_J091324.73_420454.4.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,907 - INFO - SDSS_J091324.73+420454.4: weak (Δαox=-0.38), 1 obsid row(s) written
+2026-09-04 18:13:25,917 - INFO - SDSS_J075021.46+421625.4: spectral_fits_SDSS_J075021.46_421625.4.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,917 - INFO - SDSS_J075021.46+421625.4: hardness_ratios_SDSS_J075021.46_421625.4.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,917 - INFO - SDSS_J075021.46+421625.4: fvar_SDSS_J075021.46_421625.4.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,917 - INFO - SDSS_J075021.46+421625.4: normal (Δαox=-0.20), 1 obsid row(s) written
+2026-09-04 18:13:25,929 - INFO - SDSS_J023444.27-040645.9: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,931 - INFO - SDSS_J023444.27-040645.9: test (Δαox=N/A), 2 obsid row(s) written
+2026-09-04 18:13:25,942 - INFO - SDSS_J023015.10-041917.9: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:25,944 - INFO - SDSS_J023015.10-041917.9: test (Δαox=N/A), 1 obsid row(s) written
+2026-09-04 18:13:25,953 - INFO - SDSS_J113000.64+583248.3: spectral_fits_SDSS_J113000.64_583248.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,953 - INFO - SDSS_J113000.64+583248.3: hardness_ratios_SDSS_J113000.64_583248.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,953 - INFO - SDSS_J113000.64+583248.3: fvar_SDSS_J113000.64_583248.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,954 - INFO - SDSS_J113000.64+583248.3: weak (Δαox=-0.40), 1 obsid row(s) written
+2026-09-04 18:13:25,964 - INFO - SDSS_J092634.23+521150.1: spectral_fits_SDSS_J092634.23_521150.1.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,964 - INFO - SDSS_J092634.23+521150.1: hardness_ratios_SDSS_J092634.23_521150.1.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,964 - INFO - SDSS_J092634.23+521150.1: fvar_SDSS_J092634.23_521150.1.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,964 - INFO - SDSS_J092634.23+521150.1: normal (Δαox=-0.15), 1 obsid row(s) written
+2026-09-04 18:13:25,975 - INFO - SDSS_J123000.67+413456.3: spectral_fits_SDSS_J123000.67_413456.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,975 - INFO - SDSS_J123000.67+413456.3: hardness_ratios_SDSS_J123000.67_413456.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,975 - INFO - SDSS_J123000.67+413456.3: fvar_SDSS_J123000.67_413456.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,975 - INFO - SDSS_J123000.67+413456.3: weak (Δαox=-0.36), 1 obsid row(s) written
+2026-09-04 18:13:25,987 - INFO - SDSS_J125859.62+311845.3: weak (Δαox=-0.31), 1 obsid row(s) written
+2026-09-04 18:13:25,997 - INFO - SDSS_J115954.93+341615.0: spectral_fits_SDSS_J115954.93_341615.0.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:25,998 - INFO - SDSS_J115954.93+341615.0: hardness_ratios_SDSS_J115954.93_341615.0.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:25,998 - INFO - SDSS_J115954.93+341615.0: fvar_SDSS_J115954.93_341615.0.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:25,998 - INFO - SDSS_J115954.93+341615.0: normal (Δαox=-0.24), 1 obsid row(s) written
+2026-09-04 18:13:26,008 - INFO - SDSS_J151617.75+560853.2: spectral_fits_SDSS_J151617.75_560853.2.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,009 - INFO - SDSS_J151617.75+560853.2: weak (Δαox=-0.36), 3 obsid row(s) written
+2026-09-04 18:13:26,019 - INFO - SDSS_J122646.74+334037.0: spectral_fits_SDSS_J122646.74_334037.0.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,020 - INFO - SDSS_J122646.74+334037.0: hardness_ratios_SDSS_J122646.74_334037.0.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,020 - INFO - SDSS_J122646.74+334037.0: fvar_SDSS_J122646.74_334037.0.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,020 - INFO - SDSS_J122646.74+334037.0: weak (Δαox=-0.39), 1 obsid row(s) written
+2026-09-04 18:13:26,030 - INFO - SDSS_J092632.08+522227.8: spectral_fits_SDSS_J092632.08_522227.8.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,030 - INFO - SDSS_J092632.08+522227.8: hardness_ratios_SDSS_J092632.08_522227.8.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,030 - INFO - SDSS_J092632.08+522227.8: fvar_SDSS_J092632.08_522227.8.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,030 - INFO - SDSS_J092632.08+522227.8: weak (Δαox=-0.34), 1 obsid row(s) written
+2026-09-04 18:13:26,042 - INFO - SDSS_J131109.57+391128.5: hardness_ratios_SDSS_J131109.57_391128.5.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,042 - INFO - SDSS_J131109.57+391128.5: weak (Δαox=-0.40), 1 obsid row(s) written
+2026-09-04 18:13:26,052 - INFO - SDSS_J152557.27+565529.5: spectral_fits_SDSS_J152557.27_565529.5.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,052 - INFO - SDSS_J152557.27+565529.5: hardness_ratios_SDSS_J152557.27_565529.5.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,052 - INFO - SDSS_J152557.27+565529.5: fvar_SDSS_J152557.27_565529.5.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,053 - INFO - SDSS_J152557.27+565529.5: strong (Δαox=0.40), 1 obsid row(s) written
+2026-09-04 18:13:26,064 - INFO - SDSS_J093745.53+542931.4: strong (Δαox=0.39), 1 obsid row(s) written
+2026-09-04 18:13:26,074 - INFO - SDSS_J091114.17+451649.2: spectral_fits_SDSS_J091114.17_451649.2.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,075 - INFO - SDSS_J091114.17+451649.2: strong (Δαox=0.32), 1 obsid row(s) written
+2026-09-04 18:13:26,086 - INFO - SDSS_J103215.88+574926.3: spectral_fits_SDSS_J103215.88_574926.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,086 - INFO - SDSS_J103215.88+574926.3: hardness_ratios_SDSS_J103215.88_574926.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,086 - INFO - SDSS_J103215.88+574926.3: fvar_SDSS_J103215.88_574926.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,086 - INFO - SDSS_J103215.88+574926.3: strong (Δαox=0.34), 1 obsid row(s) written
+2026-09-04 18:13:26,096 - INFO - SDSS_J021322.99-042134.3: spectral_fits_SDSS_J021322.99-042134.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,096 - INFO - SDSS_J021322.99-042134.3: hardness_ratios_SDSS_J021322.99-042134.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,096 - INFO - SDSS_J021322.99-042134.3: fvar_SDSS_J021322.99-042134.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,096 - INFO - SDSS_J021322.99-042134.3: strong (Δαox=0.34), 1 obsid row(s) written
+2026-09-04 18:13:26,108 - INFO - SDSS_J020543.75-063807.0: no match in aox_catalogue, treating as test target
+2026-09-04 18:13:26,109 - INFO - SDSS_J020543.75-063807.0: test (Δαox=N/A), 2 obsid row(s) written
+2026-09-04 18:13:26,119 - INFO - SDSS_J092038.16+510729.7: spectral_fits_SDSS_J092038.16_510729.7.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,119 - INFO - SDSS_J092038.16+510729.7: hardness_ratios_SDSS_J092038.16_510729.7.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,119 - INFO - SDSS_J092038.16+510729.7: fvar_SDSS_J092038.16_510729.7.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,119 - INFO - SDSS_J092038.16+510729.7: strong (Δαox=0.38), 1 obsid row(s) written
+2026-09-04 18:13:26,130 - INFO - SDSS_J005626.55-011728.3: spectral_fits_SDSS_J005626.55-011728.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,130 - INFO - SDSS_J005626.55-011728.3: hardness_ratios_SDSS_J005626.55-011728.3.csv not found, please run hardness ratio calculation for this target first
+2026-09-04 18:13:26,130 - INFO - SDSS_J005626.55-011728.3: fvar_SDSS_J005626.55-011728.3.csv not found, please run Fvar calculation for this target first
+2026-09-04 18:13:26,130 - INFO - SDSS_J005626.55-011728.3: strong (Δαox=0.32), 1 obsid row(s) written
+2026-09-04 18:13:26,140 - INFO - SDSS_J211102.60+105038.3: spectral_fits_SDSS_J211102.60_105038.3.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,142 - INFO - SDSS_J211102.60+105038.3: strong (Δαox=0.33), 1 obsid row(s) written
+2026-09-04 18:13:26,152 - INFO - SDSS_J145339.63+184525.4: spectral_fits_SDSS_J145339.63_184525.4.csv not found, please run spectral fitting for this target first
+2026-09-04 18:13:26,153 - INFO - SDSS_J145339.63+184525.4: strong (Δαox=0.31), 1 obsid row(s) written
+2026-09-04 18:13:26,156 - INFO - Xray weakness comparison saved to /home/cananden/Documents/python/XMM-Quasar-main/Datasets/xray_weakness_comparison_standard.csv
+2026-09-04 18:13:26,157 - INFO - SDSS_J104111.45+573848.3 mos: inverted error bounds, skipping
+2026-09-04 18:13:26,158 - INFO - SDSS_J114900.13+592225.0 combined: inverted error bounds, skipping
+2026-09-04 18:13:26,158 - INFO - SDSS_J004644.20+203134.4 mos: inverted error bounds, skipping
+2026-09-04 18:13:26,451 - INFO - Γ vs Δαox plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/gamma_vs_daox_standard.png
+2026-09-04 18:13:26,787 - INFO - Γ vs counts plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/gamma_vs_counts_standard.png
+2026-09-04 18:13:28,366 - INFO - Targets-on-LXLUV plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/targets_on_lxluv_standard.png
+2026-09-04 18:13:28,366 - INFO - SDSS_J104111.45+573848.3 mos: inverted error bounds, skipping
+2026-09-04 18:13:28,366 - INFO - SDSS_J114900.13+592225.0 combined: inverted error bounds, skipping
+2026-09-04 18:13:28,367 - INFO - SDSS_J004644.20+203134.4 mos: inverted error bounds, skipping
+2026-09-04 18:13:28,661 - INFO - Γ vs HR plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/gamma_vs_hr_standard.png
+2026-09-04 18:13:28,941 - INFO - Γ distribution plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/gamma_distribution_standard.png
+2026-09-04 18:13:29,385 - INFO - Γ error vs counts plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/gamma_err_vs_counts_standard.png
+2026-09-04 18:13:29,756 - INFO - Counts vs Δαox plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/counts_vs_daox_standard.png
+2026-09-04 18:13:30,099 - INFO - Counts vs Fvar plot saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/Plots/counts_vs_fvar_standard.png
+2026-09-04 18:13:30,099 - INFO - Loading 5XMM-DR15 source catalogue...
+2026-09-04 18:14:06,481 - INFO - 5XMM-DR15 catalogue loaded: 818656 sources
+2026-09-04 18:14:08,302 - INFO - SDSS_J020535.44-043550.8: no 5XMM match within 5.0" (closest: 13.2")
+2026-09-04 18:14:12,494 - INFO - SDSS_J083059.30+321401.7: no 5XMM match within 5.0" (closest: 22.1")
+2026-09-04 18:14:12,991 - INFO - SDSS_J023444.27-040645.9: no 5XMM match within 5.0" (closest: 26.8")
+2026-09-04 18:14:13,068 - INFO - SDSS_J023015.10-041917.9: no 5XMM match within 5.0" (closest: 14.0")
+2026-09-04 18:14:14,360 - INFO - SDSS_J020543.75-063807.0: no 5XMM match within 5.0" (closest: 13.6")
+2026-09-04 18:14:14,745 - INFO - 5XMM literature matches saved to /home/cananden/Documents/python/XMM-Quasar-main/Catalogues/5xmm_matched_targets.csv
+2026-09-04 18:14:15,189 - INFO - PG 1211+143: matched with 5XMM, sep=0.7", Γ_own=2.60, Γ_lit=2.36, consistent within 67.69σ
+2026-09-04 18:14:15,189 - INFO - 3C 273: matched with 5XMM, sep=0.29", Γ_own=1.55, Γ_lit=1.74, consistent within infσ
+2026-09-04 18:14:15,197 - INFO - PHL 1811: matched with 5XMM, sep=2.12", Γ_own=1.55, Γ_lit=2.23, consistent within 9.53σ
+2026-09-04 18:14:15,197 - INFO - SDSS_J082619.70+314847.9: matched with 5XMM, sep=1.81", Γ_own=1.79, Γ_lit=1.93, consistent within 0.35σ
+2026-09-04 18:14:15,197 - INFO - SDSS_J102714.77+354317.4: matched with 5XMM, sep=3.03", Γ_own=1.94, Γ_lit=2.10, consistent within 0.66σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J094734.19+142116.9: matched with 5XMM, sep=0.24", Γ_own=1.98, Γ_lit=1.77, consistent within 1.21σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J093857.01+412821.2: matched with 5XMM, sep=1.25", Γ_own=1.47, Γ_lit=1.88, consistent within 1.16σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J080342.03+302254.7: matched with 5XMM, sep=0.13", Γ_own=1.21, Γ_lit=1.14, consistent within 0.58σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J114900.13+592225.0: matched with 5XMM, sep=1.52", Γ_own=0.62, Γ_lit=1.31, consistent within 1.28σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J170229.55+335027.2: matched with 5XMM, sep=0.54", Γ_own=1.89, Γ_lit=2.45, consistent within 1.00σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J142745.40+554525.1: matched with 5XMM, sep=0.51", Γ_own=1.72, Γ_lit=1.60, consistent within 0.22σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J021649.79-061152.0: matched with 5XMM, sep=2.02", Γ_own=1.98, Γ_lit=2.01, consistent within 0.05σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J083130.45+320537.5: matched with 5XMM, sep=1.71", Γ_own=0.63, Γ_lit=2.05, consistent within 1.81σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J094446.36+040659.7: matched with 5XMM, sep=0.72", Γ_own=2.18, Γ_lit=2.25, consistent within 0.22σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J112104.93+432141.6: matched with 5XMM, sep=0.18", Γ_own=1.61, Γ_lit=1.76, consistent within 0.12σ
+2026-09-04 18:14:15,198 - INFO - SDSS_J022742.83+004002.9: matched with 5XMM, sep=1.63", Γ_own=1.92, Γ_lit=1.85, consistent within 0.11σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J222406.03-013111.4: matched with 5XMM, sep=0.78", Γ_own=1.46, Γ_lit=2.07, consistent within 0.95σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J234100.91-085531.9: matched with 5XMM, sep=0.38", Γ_own=2.26, Γ_lit=2.08, consistent within 0.78σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J123151.66+255217.6: matched with 5XMM, sep=2.15", Γ_own=0.36, Γ_lit=2.38, consistent within 4.79σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J142402.13+382104.1: matched with 5XMM, sep=1.42", Γ_own=1.76, Γ_lit=2.75, consistent within 2.82σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J131952.38-022543.3: matched with 5XMM, sep=1.35", Γ_own=1.73, Γ_lit=1.93, consistent within 0.58σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J091718.73+283845.1: matched with 5XMM, sep=0.76", Γ_own=0.10, Γ_lit=2.17, consistent within 4.09σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J102413.91+470512.0: matched with 5XMM, sep=1.01", Γ_own=0.62, Γ_lit=2.09, consistent within 2.12σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J232344.20-005106.9: matched with 5XMM, sep=0.53", Γ_own=2.10, Γ_lit=2.37, consistent within 0.97σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J125005.72+263107.5: matched with 5XMM, sep=1.01", Γ_own=2.08, Γ_lit=2.08, consistent within 0.15σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J090404.15+151254.5: matched with 5XMM, sep=1.53", Γ_own=1.94, Γ_lit=1.92, consistent within 0.44σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J085141.76+161221.9: matched with 5XMM, sep=1.5", Γ_own=0.78, Γ_lit=1.93, consistent within 2.75σ
+2026-09-04 18:14:15,199 - INFO - SDSS_J212951.16+004808.8: matched with 5XMM, sep=1.93", Γ_own=1.46, Γ_lit=1.84, consistent within 3.28σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J092541.34+131938.9: matched with 5XMM, sep=0.74", Γ_own=2.20, Γ_lit=2.07, consistent within 0.81σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J002239.10+012950.2: matched with 5XMM, sep=1.34", Γ_own=2.07, Γ_lit=1.82, consistent within 1.39σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J123508.21+391419.9: matched with 5XMM, sep=0.57", Γ_own=1.88, Γ_lit=1.82, consistent within 0.25σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J093217.17+285844.8: matched with 5XMM, sep=2.69", Γ_own=2.87, Γ_lit=2.65, consistent within 0.87σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J080040.11+110314.1: matched with 5XMM, sep=0.48", Γ_own=1.34, Γ_lit=0.85, consistent within 1.12σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J132040.61+341646.4: matched with 5XMM, sep=1.53", Γ_own=0.96, Γ_lit=1.06, consistent within 0.22σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J141502.82+525401.2: matched with 5XMM, sep=1.03", Γ_own=0.54, Γ_lit=2.63, consistent within 2.39σ
+2026-09-04 18:14:15,200 - INFO - SDSS_J020055.75-021050.4: matched with 5XMM, sep=1.31", Γ_own=2.91, Γ_lit=2.62, consistent within 0.29σ
+2026-09-04 18:14:15,201 - INFO - SDSS_J004644.20+203134.4: matched with 5XMM, sep=2.25", Γ_own=0.91, Γ_lit=3.27, consistent within 4.99σ
+2026-09-04 18:14:15,201 - INFO - SDSS_J125859.62+311845.3: matched with 5XMM, sep=3.15", Γ_own=0.10, Γ_lit=1.33, consistent within 7.40σ
+2026-09-04 18:14:15,201 - INFO - SDSS_J131109.57+391128.5: matched with 5XMM, sep=3.09", Γ_own=1.24, Γ_lit=2.56, consistent within 4.41σ
+2026-09-04 18:14:15,201 - INFO - SDSS_J093745.53+542931.4: matched with 5XMM, sep=0.65", Γ_own=0.17, Γ_lit=1.95, consistent within 3.20σ
