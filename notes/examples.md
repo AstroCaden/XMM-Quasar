@@ -178,7 +178,7 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 
 ## Population Analysis
 
-# Notes: Assuming standard field, Γ=1.7. Using full 5XMM database and DR61 catalogue. Limits at Δαox = 0.3 (strong) and Δαox = -0.3 (weak).
+### Notes: Assuming standard field, Γ=1.7. Using full 5XMM database and DR61 catalogue. Limits at Δαox = 0.3 (strong) and Δαox = -0.3 (weak).
 
 <a id="fig6"></a>
 <img width="600" height="500" alt="lx_luv_standard_field_1 7" src="https://github.com/user-attachments/assets/4de5d5f4-06f5-400b-b6c4-0b2721c5da0d" />
