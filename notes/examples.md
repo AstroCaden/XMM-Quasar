@@ -48,7 +48,7 @@
 ## Strong (1)
 | Target | Δαox | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
 |---|---|---|---|---|---|---|---|
-| J020543.75-063807.0* | ‡ | 1.15 (0.93, 1.38) | - | - | combined | -0.09 (-0.34, 0.19) | n.d. |
+| J020543.75-063807.0* | ‡ | 1.15 (0.93, 1.38) | † | - | combined | -0.09 (-0.34, 0.19) | n.d. |
 
 <sub><sup>
 *Target found in 4XMM database but not present in 5XMM database.
