@@ -3,7 +3,7 @@
 ### Example results using all targets in target_catalogue.json and the parameters set out in config.json:
 
 ## Test (6)
-| Target | Δαox | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
+| Target | Δαox | Γ (best fit) | Γ$_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
 |---|---|---|---|---|---|---|---|
 | 3C 273 | - | 1.55 (1.55, 1.55) | 1.74 (n/a) | inf | combined | -0.46 (-0.47, -0.44) | - |
 | PG 1211+143 | - | 2.60 (2.60, 2.60) | 2.36 (2.36, 2.36) | 67.69 | combined | -0.36 (-1.00, 0.14) | - |
@@ -13,7 +13,7 @@
 | J082619.70+314847.9 | - | 1.79 (1.59, 2.01) | 1.93 (1.66, 2.30) | 0.35 | combined | -0.69 (-1.00, -0.56) | n.d. |
 
 ## Weak (6)
-| Target | Δαox | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
+| Target | Δαox | Γ (best fit) | Γ$_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
 |---|---|---|---|---|---|---|---|
 | J093217.17+285844.8 | -0.31 | 2.87 (2.71, 3.05) | 2.65 (2.48, 2.87) | 0.87 | combined | -0.97 (-1.00, -0.95) | n.d. |
 | J131109.57+391128.5 | -0.40 | 1.24 (1.23, 1.24) | 2.56 (2.24, 2.84) | 4.41 | combined | - | n.d. |
@@ -23,7 +23,7 @@
 | J132040.61+341646.4 | -0.33 | 0.96 (0.57, 1.37) | 1.06 (0.91, 1.21) | 0.22 | pn | -0.03 (-0.35, 0.24) | n.d. |
 
 ## Normal (19)
-| Target | Δαox | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
+| Target | Δαox | Γ (best fit) | Γ$_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
 |---|---|---|---|---|---|---|---|
 | J002239.10+012950.2 | 0.14 | 2.07 (1.99, 2.15) | 1.82 (1.68, 2.00) | 1.39 | combined | -0.66 (-0.71, -0.61) | n.d. |
 | J022742.83+004002.9 | -0.01 | 1.92 (1.74, 2.11) | 1.85 (1.30, 2.40) | 0.11 | combined | -0.36 (-0.48, -0.24) | - |
@@ -46,7 +46,7 @@
 | J222406.03-013111.4 | 0.03 | 1.46 (1.23, 1.71) | 2.07 (1.48, 2.67) | 0.95 | combined | -0.24 (-0.53, 0.01) | n.d. |
 
 ## Strong (1)
-| Fit | Γ | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
+| Fit | Γ | Γ (best fit) | Γ$_{\mathrm{lit}}$  | σ | Fit | HR | $F_{\mathrm{var}}$  |
 |---|---|---|---|---|---|---|---|
 | J020543.75-063807.0* | ‡ | 1.15 (0.93, 1.38) | † | - | combined | -0.09 (-0.34, 0.19) | n.d. |
 
@@ -170,11 +170,28 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 | xray_strong_threshold | +0.3 |
 | z_min – z_max | 1.8 – 2.2 |
 
+---
+
 ## Population Analysis
 
-### WORK IN PROGRESS
+# Notes: Assuming standard field, Γ=1.7. Using full 5XMM database and DR61 catalogue. Limits at Δαox = 0.3 (strong) and Δαox = -0.3 (weak).
 
-<img width="1061" height="829" alt="lx_luv_standard_field_1 7" src="https://github.com/user-attachments/assets/4de5d5f4-06f5-400b-b6c4-0b2721c5da0d" />
-<img width="1020" height="821" alt="gamma_vs_hr_standard" src="https://github.com/user-attachments/assets/2d56b2d3-c5f9-4dfe-8be8-24aec1ee9b8c" />
-<img width="1020" height="825" alt="gamma_vs_counts_standard" src="https://github.com/user-attachments/assets/b27f914c-0ce3-4fc5-a4b7-72cc85d9de50" />
-<img width="1057" height="825" alt="gamma_err_vs_counts_standard" src="https://github.com/user-attachments/assets/cbf370ff-1fad-4208-a1b0-acbf481fde0d" />
+<a id="fig6"></a>
+<img width="600" height="500" alt="lx_luv_standard_field_1 7" src="https://github.com/user-attachments/assets/4de5d5f4-06f5-400b-b6c4-0b2721c5da0d" />
+
+**Figure 6. $L_{\mathrm{X}}$ against $L_{\mathrm{UV}}$ plot showing all objects in 5XMM database and which pass strong and weak parameters.**
+
+<a id="fig7"></a>
+<img width="600" height="500" alt="gamma_vs_hr_standard" src="https://github.com/user-attachments/assets/2d56b2d3-c5f9-4dfe-8be8-24aec1ee9b8c" />
+
+**Figure 7. Γ against HR plot. Shows a negative correlation between Γ and HR with $\mathbb{R}^2$ = 0.354. This is increased to $\mathbb{R}^2$ = 0.716 once low quality fits are removed.**
+
+<a id="fig8"></a>
+<img width="600" height="500" alt="gamma_vs_counts_standard" src="https://github.com/user-attachments/assets/b27f914c-0ce3-4fc5-a4b7-72cc85d9de50" />
+
+**Figure 8. Γ against counts counts plot. Shows fits that are boundary pinned or broken scattered across the range of dof, but predominantly below the 200-300 range. Shows that counts is relatively consistent across Γ, though slightly more contained at higher dof.**
+
+<a id="fig9"></a>
+<img width="600" height="500" alt="gamma_err_vs_counts_standard" src="https://github.com/user-attachments/assets/cbf370ff-1fad-4208-a1b0-acbf481fde0d" />
+
+**Figure 9. $Γ_{\mathrm{err}}$ against counts plot. Shows that error width declines with counts. Higher count observations produce more constrained Γ values.**
