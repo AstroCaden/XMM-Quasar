@@ -1,7 +1,5 @@
 import json
 import sys
-import random
-
 from program.pipeline_core import Pipeline
 
 
