@@ -1,5 +1,5 @@
 # X-ray Strength AGN Code
-### NOTE: Project still under development, README may not be up-to-date. Code subject to change and may contain bugs.
+### Disclaimer: Code and results have not been peer reviewed and should not be taken as fact, literature value or accurate.
 
 Modular pipeline created to analyse X-ray weak, normal and strong AGN from XMM-Newton observations.
 
