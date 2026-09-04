@@ -62,11 +62,11 @@
 ‡No match in Δαox catalogue.
 </sup></sub>
 
-## Target Analysis.
+# Target Analysis.
 
 Most targets are consistent within 3σ.
 
-# Exceptions: 3C 273, PG 1211+143, J131109.57+391128.5, J004644.20+203134.4.
+## Exceptions: 3C 273, PG 1211+143, J131109.57+391128.5, J004644.20+203134.4.
 
 <b>3C 273</b> is consistent within infinite σ. This is due the 5XMM database containing a photon index value, but no uncertainty on it.
 As a result, the pipeline calculates an infinite σ. 
