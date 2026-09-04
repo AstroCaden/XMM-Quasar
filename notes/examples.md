@@ -53,9 +53,11 @@
 <sub><sup>
 *Target found in 4XMM database but not present in 5XMM database.
 </sup></sub>
+
 <sub><sup>
 †Target found in 5XMM but without photon index.
 </sup></sub>
+
 <sub><sup>
 ‡No match in Δαox catalogue.
 </sup></sub>
