@@ -19,5 +19,12 @@
     "H0": 70.0,
     "omega_m": 1.0,
     "omega_lambda": 0.0
+  },
+  
+  "radiation_dominated": {
+    "H0": 70.0,
+    "omega_m": 0.0,
+    "omega_lambda": 1.0
   }
+  
 }
