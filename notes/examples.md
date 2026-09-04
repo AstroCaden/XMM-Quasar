@@ -42,11 +42,11 @@
 | J021649.79-061152.0 | 0.01 | 1.98 (1.77, 2.21) | 2.01 (1.61, 2.62) | 0.05 | combined | -0.52 (-0.71, -0.34) | n.d. |
 | J085141.76+161221.9 | 0.14 | 0.78 (0.42, 1.16) | 1.93 (1.76, 2.15) | 2.75 | pn | -0.11 (-0.28, 0.08) | - |
 | J114900.13+592225.0 | -0.16 | 0.62 (0.19, 1.01) | 1.31 (1.09, 1.80) | 1.28 | pn | -0.12 (-0.42, 0.22) | - |
-| J142402.13+382104.1 | -0.07 | 1.76 (?, ?) | 2.75 (2.47, 2.92) | 2.82 | mos | -0.91 (-1.00, -0.82) | n.d. |
+| J142402.13+382104.1 | -0.07 | 1.76 (1.50, 2.03) | 2.75 (2.47, 2.92) | 2.82 | mos | -0.91 (-1.00, -0.82) | n.d. |
 | J222406.03-013111.4 | 0.03 | 1.46 (1.23, 1.71) | 2.07 (1.48, 2.67) | 0.95 | combined | -0.24 (-0.53, 0.01) | n.d. |
 
 ## Strong (1)
-| Target | Δαox | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
+| Fit | Γ | Γ (best fit) | Γ_lit | σ | Fit | HR | Fvar |
 |---|---|---|---|---|---|---|---|
 | J020543.75-063807.0* | ‡ | 1.15 (0.93, 1.38) | † | - | combined | -0.09 (-0.34, 0.19) | n.d. |
 
@@ -62,17 +62,33 @@
 ‡No match in Δαox catalogue.
 </sup></sub>
 
-# Target Analysis.
+## Target Analysis.
 
 Most targets are consistent within 3σ.
 
-## Exceptions: 3C 273, PG 1211+143, J131109.57+391128.5, J004644.20+203134.4.
+### Exceptions: 3C 273, PG 1211+143, J131109.57+391128.5, J004644.20+203134.4.
 
 <b>3C 273</b> is consistent within infinite σ. This is due the 5XMM database containing a photon index value, but no uncertainty on it.
 As a result, the pipeline calculates an infinite σ. 
 
 <b>PG 1211+143</b> is consistent within 67.69σ. This is due to both the pipeline and 5XMM presenting near zero error width.
 As a result, the pipeline calculates a 67.69σ.
+
+<b>J131109.57+391128.5</b> is consistent within 4.41σ. This target, however, does not contain an obvious reason at first glance.
+
+By looking at the spectra [**Figure 1**](#fig1) produced (ObsID: 0827031301), one can see that there is a very large peak in the PN spectra at approximately 1.55–1.65 keV (4.88–5.19 keV in the rest frame). It is consistent with instrumental contamination within EPIC PN, given that this peak is not present in MOS1 or MOS2. This explains the independent photon index values between PN and MOS
+| Fit | Γ |
+|---|---|
+| Combined | 1.24 (1.23, 1.24) |
+| PN | 4.92 (0.0, 0.0) |
+| MOS | 1.20 (1.19, 1.21) |
+
+
+<a id="fig1"></a>
+
+<img width="520" height="500" alt="spectra_0827031301" src="https://github.com/user-attachments/assets/3c3b4d34-746b-45d0-a674-a9342eadc8e5" />
+
+**Figure 1. Spectra plot of J131109.57+391128.5, ObsID 0827031301 with PN, MOS1 and MOS2**
 
 
 
