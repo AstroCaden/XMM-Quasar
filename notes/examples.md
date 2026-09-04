@@ -67,6 +67,7 @@
 Most targets are consistent within 3σ.
 
 ### Exceptions: 3C 273, PG 1211+143, J131109.57+391128.5, J004644.20+203134.4.
+<i>J142402.13+382104.1 (2.82σ) and J085141.76+161221.9 (2.75σ) pass but sit close enough to the boundary to flag as marginal rather than clean</i>
 
 <b>3C 273</b> is consistent within infinite σ. This is due the 5XMM database containing a photon index value, but no uncertainty on it.
 As a result, the pipeline calculates an infinite σ. 
@@ -92,7 +93,7 @@ By looking at the spectra [**Figure 1**](#fig1) produced (ObsID: 0827031301), on
 
 However, removing PN value and looking specifically at MOS increases the consistency width. This suggests that the peak in PN is not the reason why the consistency width is so larger.
 Rather, it suggests that target may have a strong energy dependence or that there may be a literature mismatch between the value to pipeline generates and the value in the 5XMM catalogue.
-There are also visible peaks in MOS, though less pronounced, at approximately 0.28-0.30 keV (0.81-0.87 keV in the rest frame). This is consistent with documented calibration issues within MOS1 and MOS2.
+There are also visible peaks in MOS, though less pronounced, at approximately 0.28-0.30 keV (0.89-0.94 keV in the rest frame). This is consistent with documented calibration issues within MOS1 and MOS2.
 
 <b>J004644.20+203134.4</b> is consistent within 4.99σ. This too does not contain an obvious reason at first glance. Looking at its spectra, both are much lower count than that of J131109.57+391128.5. This likely explains the reason for its low photon index. Simply, there just are not enough counts to accurately map it as a power law spectra. However, it is also important to look at the spectra directly. The 0652460101 spectra in [**Figure 2**](#fig2) shows a relatively flat, low count spectra. Consistent with the low count mapping issue described. The 0652460201 spectra [**Figure 3**](#fig3) also shows a relatively flat, low count spectra. However, there is also a large peak in the PN spectra at approximately 1.55-1.65 keV (4.49-4.78 in the rest frame). This appears to provide further evidence for the instrumentational peak in J131109.57+391128.5's PN spectra, showing that is it appears across different targets, with observations taken at different times.
 
@@ -108,7 +109,7 @@ There are also visible peaks in MOS, though less pronounced, at approximately 0.
 
 # Population Summary
 
-### Example results of 4XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
+### Example results of 5XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
 
 5XMM-DR15 × SDSS DR16Q crossmatch, z = 1.8–2.2, after quality cuts (SC_SUM_FLAG, PSFFLUX, colour, radio, BAL).
 
@@ -150,3 +151,12 @@ There are also visible peaks in MOS, though less pronounced, at approximately 0.
 | xray_weak_threshold | -0.3 |
 | xray_strong_threshold | +0.3 |
 | z_min – z_max | 1.8 – 2.2 |
+
+## Population Analysis
+
+### WORK IN PROGRESS
+
+<img width="1020" height="821" alt="gamma_vs_hr_standard" src="https://github.com/user-attachments/assets/2d56b2d3-c5f9-4dfe-8be8-24aec1ee9b8c" />
+<img width="1020" height="825" alt="gamma_vs_counts_standard" src="https://github.com/user-attachments/assets/b27f914c-0ce3-4fc5-a4b7-72cc85d9de50" />
+<img width="1057" height="825" alt="gamma_err_vs_counts_standard" src="https://github.com/user-attachments/assets/cbf370ff-1fad-4208-a1b0-acbf481fde0d" />
+<img width="2083" height="890" alt="civ_correlation_standard_1 7" src="https://github.com/user-attachments/assets/028c7f0b-05fa-4aef-8d86-d5705ac15831" />
