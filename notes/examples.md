@@ -184,7 +184,7 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 <a id="fig7"></a>
 <img width="600" height="500" alt="gamma_vs_hr_standard" src="https://github.com/user-attachments/assets/2d56b2d3-c5f9-4dfe-8be8-24aec1ee9b8c" />
 
-**Figure 7. Γ against HR plot. Shows a negative correlation between Γ and HR with $\mathbb{R}^2$ = 0.354. This is increased to $\mathbb{R}^2$ = 0.716 once low quality fits are removed.**
+**Figure 7. Γ against HR plot. Shows a negative correlation between Γ and HR with $\mathrm{R}^2$ = 0.354. This is increased to $\mathrm{R}^2$ = 0.716 once low quality fits are removed.**
 
 <a id="fig8"></a>
 <img width="600" height="500" alt="gamma_vs_counts_standard" src="https://github.com/user-attachments/assets/b27f914c-0ce3-4fc5-a4b7-72cc85d9de50" />
