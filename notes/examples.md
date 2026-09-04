@@ -170,7 +170,11 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 | xray_strong_threshold | +0.3 |
 | z_min – z_max | 1.8 – 2.2 |
 
+### For example of complete run see `outputs/specific` directory.
+
 ---
+
+
 
 ## Population Analysis
 
@@ -195,3 +199,6 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 <img width="600" height="500" alt="gamma_err_vs_counts_standard" src="https://github.com/user-attachments/assets/cbf370ff-1fad-4208-a1b0-acbf481fde0d" />
 
 **Figure 9. $Γ_{\mathrm{err}}$ against counts plot. Shows that error width declines with counts. Higher count observations produce more constrained Γ values.**
+
+
+### For example of all population figures produced, see `outputs/general` directory.
