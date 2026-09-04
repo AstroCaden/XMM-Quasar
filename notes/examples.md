@@ -50,11 +50,13 @@
 |---|---|---|---|---|---|---|---|
 | J020543.75-063807.0* | ‡ | 1.15 (0.93, 1.38) | - | - | combined | -0.09 (-0.34, 0.19) | n.d. |
 
+<sub><sup>
 *Target found in 4XMM database but not present in 5XMM database.
 
 †Target found in 5XMM but without photon index.
 
 ‡No match in Δαox catalogue.
+</sup></sub>
 
 # Population Summary
 
