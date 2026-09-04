@@ -97,11 +97,13 @@ There are also visible peaks in MOS, though less pronounced, at approximately 0.
 <b>J004644.20+203134.4</b> is consistent within 4.99σ. This too does not contain an obvious reason at first glance. Looking at its spectra, both are much lower count than that of J131109.57+391128.5. This likely explains the reason for its low photon index. Simply, there just are not enough counts to accurately map it as a power law spectra. However, it is also important to look at the spectra directly. The 0652460101 spectra in [**Figure 2**](#fig2) shows a relatively flat, low count spectra. Consistent with the low count mapping issue described. The 0652460201 spectra [**Figure 3**](#fig3) also shows a relatively flat, low count spectra. However, there is also a large peak in the PN spectra at approximately 1.55-1.65 keV (4.49-4.78 in the rest frame). This appears to provide further evidence for the instrumentational peak in J131109.57+391128.5's PN spectra, showing that is it appears across different targets, with observations taken at different times.
 
 <a id="fig2"></a>
-<img width="1485" height="1478" alt="spectra_0652460101" src="https://github.com/user-attachments/assets/1ad26e13-2d7f-480f-b9fe-90ae523b3b24" />
+<img width="520" height="500" alt="spectra_0652460101" src="https://github.com/user-attachments/assets/1ad26e13-2d7f-480f-b9fe-90ae523b3b24" />
+
 **Figure 2. Spectra plot of J004644.20+203134.4, ObsID 0652460101 with PN, MOS1 and MOS2**
 
 <a id="fig3"></a>
-<img width="1485" height="1478" alt="spectra_0652460201" src="https://github.com/user-attachments/assets/927cd48b-66f3-4037-83b8-502246ddd316" />
+<img width="520" height="500" alt="spectra_0652460201" src="https://github.com/user-attachments/assets/927cd48b-66f3-4037-83b8-502246ddd316" />
+
 **Figure 3. Spectra plot of J004644.20+203134.4, ObsID 0652460201 with PN, MOS1 and MOS2**
 
 # Population Summary
