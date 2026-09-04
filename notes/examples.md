@@ -56,13 +56,13 @@ Updating with the corrected-code run's values — Γ_own/Γ_lit/σ from the new 
 
 ### Example results of 4XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
 
-4XMM-DR14 × SDSS DR16Q crossmatch, z = 1.8–2.2, after quality cuts (SC_SUM_FLAG, PSFFLUX, colour, radio, BAL).
+5XMM-DR15 × SDSS DR16Q crossmatch, z = 1.8–2.2, after quality cuts (SC_SUM_FLAG, PSFFLUX, colour, radio, BAL).
 
 ## Sample composition
 
 | | N | Fraction |
 |---|---|---|
-| Total | 1539 | — |
+| Total | 1658 | — |
 | Weak (Δαox < -0.3) | 46 | 2.8% |
 | Normal (-0.3 ≤ Δαox ≤ 0.3) | 1600 | 96.5% |
 | Strong (Δαox > +0.3) | 12 | 0.7% |
