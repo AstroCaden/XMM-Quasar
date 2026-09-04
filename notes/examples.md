@@ -51,7 +51,7 @@
 | J020543.75-063807.0* | ‡ | 1.15 (0.93, 1.38) | † | - | combined | -0.09 (-0.34, 0.19) | n.d. |
 
 <sub><sup>
-*Target found in 4XMM database but not present in 5XMM database.
+*Target found in 4CXMM database but not present in 5XMM database.
 </sup></sub>
 
 <sub><sup>
@@ -127,7 +127,7 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 
 # Population Summary
 
-### Example results of 5XMM-DR14 and SDSS DR16Q using the parameters set out in config.json:
+### Example results of 5XMM-DR15 and SDSS DR16Q using the parameters set out in config.json:
 
 5XMM-DR15 × SDSS DR16Q crossmatch, z = 1.8–2.2, after quality cuts (SC_SUM_FLAG, PSFFLUX, colour, radio, BAL).
 
@@ -174,7 +174,7 @@ However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201
 
 ### WORK IN PROGRESS
 
+<img width="1061" height="829" alt="lx_luv_standard_field_1 7" src="https://github.com/user-attachments/assets/4de5d5f4-06f5-400b-b6c4-0b2721c5da0d" />
 <img width="1020" height="821" alt="gamma_vs_hr_standard" src="https://github.com/user-attachments/assets/2d56b2d3-c5f9-4dfe-8be8-24aec1ee9b8c" />
 <img width="1020" height="825" alt="gamma_vs_counts_standard" src="https://github.com/user-attachments/assets/b27f914c-0ce3-4fc5-a4b7-72cc85d9de50" />
 <img width="1057" height="825" alt="gamma_err_vs_counts_standard" src="https://github.com/user-attachments/assets/cbf370ff-1fad-4208-a1b0-acbf481fde0d" />
-<img width="2083" height="890" alt="civ_correlation_standard_1 7" src="https://github.com/user-attachments/assets/028c7f0b-05fa-4aef-8d86-d5705ac15831" />
