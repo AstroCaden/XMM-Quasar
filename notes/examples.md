@@ -112,7 +112,7 @@ There are also visible peaks in MOS, though less pronounced, at approximately 0.
 J142402.13+382104.1 and J093857.01+412821.2 have a consistency widths of 2.82σ and 1.16σ respectively. When looking at the J142402.13+382104.1 ObsID: 0305360801 spectra in [**Figure 4**](#fig4), there is no PN data. However, the MOS1 and MOS2 spectra show a peak at 5.85-5.95 keV (17.33-17.63 keV in rest frame) and a smaller secondary peak at 6.45-6.55 keV (19.11-19.40 keV in rest frame). This appears to be instrumentational contamination, similar to that shown in J131109.57+391128.5 and J004644.20+203134.4.
 
 <a id="fig4"></a>
-<img width="1472" height="1478" alt="spectra_0305360801" src="https://github.com/user-attachments/assets/d9788cbd-0ab9-4b0d-9fca-be0af975e1c5" />
+<img width="520" height="500" alt="spectra_0305360801" src="https://github.com/user-attachments/assets/d9788cbd-0ab9-4b0d-9fca-be0af975e1c5" />
 
 
 **Figure 4. Spectra plot of J142402.13+382104.1, ObsID 0305360801 with PN, MOS1 and MOS2**
@@ -120,7 +120,7 @@ J142402.13+382104.1 and J093857.01+412821.2 have a consistency widths of 2.82σ 
 However, when looking at the spectra from J093857.01+412821.2, ObsID: 0504621201 shown in [**Figure 5**](#fig5), a similar two peaks can be observed at 5.85-5.95 keV (17.30-17.60 keV in rest frame) in all three cameras and a smaller second peak at 6.45-6.55 keV (19.08-19.37 keV in rest frame) in PN and MOS2. The consistency of the first, larger peak across all cameras and (rest frame) energies in two different observations suggests that this probably is not instrumentational contamination. Its intermittence between ObsIDs on the same target suggests that it is not an intrinsic property of the target AGN's spectra. While this suggests that instrumentational contamination is improbable, a third target at a much different redshift showing the same rest frame peak would be needed to properly exclude it. Given the intermittence of these peaks, the most probably explanation is some other form of contamination such as SWCX or other non-source explanations.
 
 <a id="fig5"></a>
-<img width="1485" height="1478" alt="spectra_0504621201" src="https://github.com/user-attachments/assets/40293267-bca6-4d5e-a193-813c0b352ded" />
+<img width="520" height="500" alt="spectra_0504621201" src="https://github.com/user-attachments/assets/40293267-bca6-4d5e-a193-813c0b352ded" />
 
 
 **Figure 5. Spectra plot of J093857.01+412821.2, ObsID 0504621201 with PN, MOS1 and MOS2**
