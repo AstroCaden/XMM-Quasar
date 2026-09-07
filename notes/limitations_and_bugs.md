@@ -4,7 +4,7 @@
 - **MOS-specific Γ–HR decorrelation** - real instrumental physics (optical loading), not something your code got wrong.
 - **Fvar reliability threshold below dof≈200–300** - inherent to the excess-variance estimator at low counts.
 - **Δαox correlates with fit dof** - a real, important caveat about the weak/strong classification, not a coding error.
-- **Unresolved rest-frame ≈3.5 keV feature** - open question, tentatively non-exotic.
+- **Unresolved rest-frame ≈5.9 keV feature** - open question, tentatively non-exotic.
 - **Unresolved Δαox secondary excess** at -0.6 to -0.8 - open question.
 - **Cross-catalogue detection differences** (4XMM-DR14 vs 5XMM-DR15) - a caveat about interpreting literature comparisons, not a defect in your pipeline.
 - **Per-target result staleness** - the pipeline behaves exactly as designed (one target per run), the risk is procedural (forgetting to reprocess after a fix), not a bug to fix in code.
