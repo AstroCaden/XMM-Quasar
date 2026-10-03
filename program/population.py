@@ -216,7 +216,7 @@ def lxluv_plot(self, photon_index):
 
     ax.set_xlabel(r"$\log(L_{2500\AA})$ [erg s$^{-1}$ Hz$^{-1}$]", fontsize=12)
     ax.set_ylabel(r"$\log(L_{2\,\mathrm{keV}})$ [erg s$^{-1}$ Hz$^{-1}$]", fontsize=12)
-    ax.set_title(f"{self.target_name}  | {self.field_type} |  z = {self.z_min}-{self.z_max}, Γ = {photon_index}", fontsize=12)
+    ax.set_title(f"5XMM-DR5  | {self.field_type} |  z = {self.z_min}-{self.z_max}, Γ = {photon_index}", fontsize=12)
     ax.legend(fontsize=10)
     ax.grid(True, alpha=0.2, linestyle="--")
 
