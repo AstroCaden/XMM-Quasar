@@ -137,4 +137,4 @@ Note: Catalogue currently contains minimal entries, therefore the user may need 
 A full, detailed log of methodological approximations, tested-and-ruled-out hypotheses, and open issues is kept in `limitations_and_bugs.md` and is intended to be read alongside any results from this pipeline.
 
 ---
-This program was developed by Caden Phillips, Third Year MPhys Astrophysics Student, University of Liverpool.
+This program was developed by Caden Phillips, Fourth Year MPhys Astrophysics Student, University of Liverpool.
