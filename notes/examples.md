@@ -62,6 +62,8 @@
 ‡No match in Δαox catalogue.
 </sup></sub>
 
+# This section is outdated. Ignore it.
+
 ## Target Analysis.
 
 Most targets are consistent within 3σ.
@@ -87,7 +89,7 @@ By looking at the spectra [**Figure 1**](#fig1) produced (ObsID: 0827031301), on
 
 <a id="fig1"></a>
 
-<img width="520" height="500" alt="spectra_0827031301" src="https://github.com/user-attachments/assets/3c3b4d34-746b-45d0-a674-a9342eadc8e5" />
+<img width="520" height="520" alt="spectra_0827031301" src="https://github.com/user-attachments/assets/a24296ee-3494-44a5-9c97-2696a5517cb7" />
 
 **Figure 1. Spectra plot of J131109.57+391128.5, ObsID 0827031301 with PN, MOS1 and MOS2**
 
